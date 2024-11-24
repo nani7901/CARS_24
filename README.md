@@ -37,7 +37,26 @@ Web Scraping: Data was collected by scraping car listings from various locations
 Data Merging: After scraping data from multiple locations, all CSV files were loaded, cleaned, and merged into a single comprehensive dataset.
 ## Exploratory Data Analysis (EDA):
 I Used various EDA techniques to understand key trends in the used car market, with a focus on price variations, brand popularity, and transmission type trends.
-
+Data Collection: Gather the dataset with features like price, brand, transmission type, etc.
+	2.	Data Cleaning:
+	•	Handle missing values (fill with median for numerical, mode for categorical).
+	•	Remove duplicates.
+	•	Correct data types.
+	3.	EDA on Data Distribution:
+	•	Generate summary statistics for numerical columns.
+	•	Visualize distributions using histograms and box plots.
+	4.	Analyzing Key Trends:
+	•	Explore price variations across brand, transmission, and fuel type.
+	•	Identify brand popularity via frequency analysis.
+	•	Compare price trends based on transmission type.
+	5.	Handling Outliers: Identify and handle outliers in price and mileage.
+	6.	Correlation Analysis: Analyze relationships between numerical features using correlation matrices.
+	7.	Feature Engineering:
+	•	Create new features like age_of_car.
+	•	Encode categorical variables for analysis.
+	8.	Data Visualization:
+	•	Visualize insights with bar charts, box plots, and heatmaps.
+	9.	Conclusion: Summarize key trends and insights.
 ### Merge Data: After scraping, you can merge all location-based data using the merge_data.py script.
 
 ### Perform EDA: Analyze the data and generate insights using the cars24_eda.ipynb Jupyter notebook.
