@@ -1,0 +1,506 @@
+YOM,Brand,Car_Name,Kms_Driven,Fuel_Type,Owner_Type,Transmission_Type,Price_in_Lakhs,Emi_per_Month,Location
+2016,Honda,Honda BR-V 1.5L I-VTEC V,76286,Petrol,2nd owner,Manual,6.08,11887,Hyderabad
+2015,Volkswagen,Volkswagen Polo COMFORTLINE 1.2L,66334,Petrol,2nd owner,Manual,3.55,6940,Hyderabad
+2016,Tata,Tata Tiago XZ PETROL,33601,Petrol,1st owner,Manual,3.75,7331,Hyderabad
+2022,KIA,KIA SELTOS GTX (O) 1.4,23265,Petrol,1st owner,Manual,13.68,26039,Hyderabad
+2019,Tata,Tata Harrier XZ 2.0L,57247,Diesel,1st owner,Manual,11.94,22727,Hyderabad
+2022,Renault,Renault TRIBER RXZ AMT,55853,Petrol,1st owner,Manual,5.87,11476,Hyderabad
+2021,Tata,Tata NEXON XM PETROL,16444,Petrol,1st owner,Manual,7.57,14799,Hyderabad
+2018,Honda,Honda City 1.5L I-VTEC SV,29156,Petrol,2nd owner,Manual,5.84,11417,Hyderabad
+2016,Ford,Ford Ecosport TREND+ 1.5L DIESEL,76000,Diesel,1st owner,Manual,5.7,11144,Hyderabad
+2017,Maruti,Maruti Swift VXI,74579,Petrol,1st owner,Manual,4.57,8934,Hyderabad
+2017,Honda,Honda City 1.5L I-VTEC SV,36568,Petrol,1st owner,Manual,6.28,12278,Hyderabad
+2022,Tata,Tata NEXON XM PETROL,5448,Petrol,2nd owner,Manual,7.37,14408,Hyderabad
+2020,Tata,Tata NEXON XMA SUNROOF DIESEL,63920,Diesel,2nd owner,Manual,8.12,15452,Hyderabad
+2022,Tata,Tata Tiago XZA PLUS PETROL,16366,Petrol,1st owner,Manual,6.4,12512,Hyderabad
+2018,Maruti,Maruti IGNIS ZETA 1.2 AMT,76907,Petrol,2nd owner,Manual,4.25,8309,Hyderabad
+2017,Maruti,Maruti Baleno ALPHA PETROL 1.2,36529,Petrol,1st owner,Manual,5.36,10479,Hyderabad
+2020,Tata,Tata NEXON XZA PLUS SUNROOF DIESEL,75603,Diesel,2nd owner,Manual,8.96,17055,Hyderabad
+2021,Hyundai,Hyundai VENUE SX 1.0 TURBO IMT,16374,Petrol,1st owner,Manual,8.85,16845,Hyderabad
+2019,Hyundai,Hyundai VENUE SX PLUS 1.0 TURBO DCT,43518,Petrol,1st owner,Automatic,8.5,16179,Hyderabad
+2021,Hyundai,Hyundai VENUE SX 1.0 TURBO IMT,10007,Petrol,2nd owner,Manual,8.46,16103,Hyderabad
+2017,Maruti,Maruti Baleno ZETA DIESEL 1.3,107730,Diesel,2nd owner,Manual,4.95,11007,Hyderabad
+2022,Maruti,Maruti New Wagon-R VXI 1.0 AMT,28720,Petrol,1st owner,Manual,5.69,11124,Hyderabad
+2019,Volkswagen,Volkswagen Ameo COMFORTLINE 1.0L,34651,Petrol,2nd owner,Manual,4.65,9089,Hyderabad
+2023,Maruti,Maruti New Wagon-R VXI 1.0 AMT,3883,Petrol,1st owner,Manual,6.45,12610,Hyderabad
+2019,Honda,Honda City 1.5L I-VTEC VX CVT,54825,Petrol,1st owner,Automatic,8.44,16061,Hyderabad
+2014,Volkswagen,Volkswagen Vento HIGHLINE 1.6 MPI,92524,Petrol,1st owner,Manual,3.53,7852,Hyderabad
+2023,Tata,Tata PUNCH CREATIVE AMT,9979,Petrol,1st owner,Manual,8.25,15703,Hyderabad
+2017,Maruti,Maruti IGNIS DELTA 1.2 AMT,24768,Petrol,2nd owner,Manual,4.45,8700,Hyderabad
+2014,Volkswagen,Volkswagen Polo HIGHLINE1.2L,100739,Petrol,2nd owner,Manual,3.29,7318,Hyderabad
+2014,Maruti,Maruti Alto K10 VXI,31880,Petrol,2nd owner,Manual,2.07,4605,Hyderabad
+2016,Volkswagen,Volkswagen Ameo HIGHLINE1.2L,12091,Petrol,1st owner,Manual,4.61,9007,Hyderabad
+2014,Hyundai,Hyundai i20 SPORTZ 1.2,35512,Petrol,2nd owner,Manual,3.66,8141,Hyderabad
+2015,Mahindra,Mahindra XUV500 W6,40663,Diesel,1st owner,Manual,6.52,14503,Hyderabad
+2022,Nissan,Nissan MAGNITE XV MT,33161,Petrol,1st owner,Manual,6.26,12238,Hyderabad
+2013,Maruti,Maruti Swift Dzire VXI,33355,Petrol,1st owner,Manual,3.6,9480,Hyderabad
+2020,Maruti,Maruti Dzire ZXI PLUS AMT,56042,Petrol,2nd owner,Manual,5.98,11691,Hyderabad
+2021,Volkswagen,Volkswagen TAIGUN HIGHLINE 1.0 TSI AT,49409,Petrol,1st owner,Automatic,11.5,21889,Hyderabad
+2017,Hyundai,Hyundai Elite i20 SPORTZ 1.2,19288,Petrol,1st owner,Manual,5.11,9990,Hyderabad
+2018,Renault,Renault Kwid RXT 1.0 AMT (O),38847,Petrol,1st owner,Manual,3.48,6803,Hyderabad
+2016,Maruti,Maruti Ciaz ZXI+ AT,90756,Petrol,1st owner,Automatic,5.17,10107,Hyderabad
+2017,Maruti,Maruti Baleno ZETA DIESEL 1.3,107730,Diesel,2nd owner,Manual,4.95,11007,Hyderabad
+2022,Maruti,Maruti New Wagon-R VXI 1.0 AMT,28720,Petrol,1st owner,Manual,5.69,11124,Hyderabad
+2019,Volkswagen,Volkswagen Ameo COMFORTLINE 1.0L,34651,Petrol,2nd owner,Manual,4.65,9089,Hyderabad
+2023,Maruti,Maruti New Wagon-R VXI 1.0 AMT,3883,Petrol,1st owner,Manual,6.45,12610,Hyderabad
+2019,Honda,Honda City 1.5L I-VTEC VX CVT,54825,Petrol,1st owner,Automatic,8.44,16061,Hyderabad
+2014,Volkswagen,Volkswagen Vento HIGHLINE 1.6 MPI,92524,Petrol,1st owner,Manual,3.53,7852,Hyderabad
+2023,Tata,Tata PUNCH CREATIVE AMT,9979,Petrol,1st owner,Manual,8.25,15703,Hyderabad
+2017,Maruti,Maruti IGNIS DELTA 1.2 AMT,24768,Petrol,2nd owner,Manual,4.45,8700,Hyderabad
+2014,Volkswagen,Volkswagen Polo HIGHLINE1.2L,100739,Petrol,2nd owner,Manual,3.29,7318,Hyderabad
+2014,Maruti,Maruti Alto K10 VXI,31880,Petrol,2nd owner,Manual,2.07,4605,Hyderabad
+2016,Volkswagen,Volkswagen Ameo HIGHLINE1.2L,12091,Petrol,1st owner,Manual,4.61,9007,Hyderabad
+2014,Hyundai,Hyundai i20 SPORTZ 1.2,35512,Petrol,2nd owner,Manual,3.66,8141,Hyderabad
+2015,Mahindra,Mahindra XUV500 W6,40663,Diesel,1st owner,Manual,6.52,14503,Hyderabad
+2022,Nissan,Nissan MAGNITE XV MT,33161,Petrol,1st owner,Manual,6.26,12238,Hyderabad
+2013,Maruti,Maruti Swift Dzire VXI,33355,Petrol,1st owner,Manual,3.6,9480,Hyderabad
+2020,Maruti,Maruti Dzire ZXI PLUS AMT,56042,Petrol,2nd owner,Manual,5.98,11691,Hyderabad
+2021,Volkswagen,Volkswagen TAIGUN HIGHLINE 1.0 TSI AT,49409,Petrol,1st owner,Automatic,11.5,21889,Hyderabad
+2017,Hyundai,Hyundai Elite i20 SPORTZ 1.2,19288,Petrol,1st owner,Manual,5.11,9990,Hyderabad
+2018,Renault,Renault Kwid RXT 1.0 AMT (O),38847,Petrol,1st owner,Manual,3.48,6803,Hyderabad
+2016,Maruti,Maruti Ciaz ZXI+ AT,90756,Petrol,1st owner,Automatic,5.17,10107,Hyderabad
+2017,Skoda,Skoda Rapid STYLE 1.6 MPI,58664,Petrol,1st owner,Manual,5.49,10733,Hyderabad
+2020,Hyundai,Hyundai AURA SX PLUS 1.2 AMT CRDI,58488,Diesel,2nd owner,Manual,6.7,13106,Hyderabad
+2021,Renault,Renault TRIBER RXZ AMT,35788,Petrol,1st owner,Manual,6.44,12590,Hyderabad
+2019,Hyundai,Hyundai Verna 1.6 VTVT SX O,92609,Petrol,2nd owner,Automatic,8.08,15380,Hyderabad
+2014,Maruti,Maruti Swift VXI,29973,Petrol,1st owner,Manual,3.69,8208,Hyderabad
+2019,Hyundai,Hyundai NEW SANTRO ERA EXECUTIVE,56077,Petrol,1st owner,Manual,3.73,7291,Hyderabad
+2016,Honda,Honda Jazz 1.2L I-VTEC S AT,97925,Petrol,1st owner,Automatic,3.74,7312,Hyderabad
+2021,Nissan,Nissan MAGNITE XV PREMIUM,47127,Petrol,1st owner,Manual,6.29,12293,Hyderabad
+2015,Maruti,Maruti Celerio VXI CNG,53514,CNG,1st owner,Manual,3.56,9377,Hyderabad
+2014,Maruti,Maruti Wagon R 1.0 LXI CNG,99831,CNG,2nd owner,Manual,2.74,9101,Hyderabad
+2013,Maruti,Maruti Ertiga ZXI,41154,Petrol,2nd owner,Manual,4.95,13027,Hyderabad
+2018,Hyundai,Hyundai NEW SANTRO MAGNA CNG,59884,CNG,1st owner,Manual,4.06,7937,Hyderabad
+2019,Hyundai,Hyundai VENUE SX 1.0 TURBO,35132,Petrol,1st owner,Manual,7.83,15310,Hyderabad
+2017,Hyundai,Hyundai Creta E PLUS 1.6 PETROL,43358,Petrol,1st owner,Manual,7.12,13920,Hyderabad
+2017,Maruti,Maruti Baleno DELTA PETROL 1.2,30009,Petrol,1st owner,Manual,4.88,9540,Hyderabad
+2021,Hyundai,Hyundai VENUE S 1.0 TURBO IMT,50011,Petrol,1st owner,Manual,7.66,14983,Hyderabad
+2016,Hyundai,Hyundai Creta BASE 1.6 PETROL,54149,Petrol,1st owner,Manual,6.07,11867,Hyderabad
+2018,Toyota,Toyota YARIS VX MT,30509,Petrol,2nd owner,Manual,6.97,13626,Hyderabad
+2020,Honda,Honda City 1.5L I-VTEC ZX,27603,Petrol,1st owner,Manual,9.27,17645,Hyderabad
+2017,Hyundai,Hyundai Elite i20 ASTA 1.4 CRDI (O),91079,Diesel,1st owner,Manual,5.99,11711,Hyderabad
+2021,Tata,Tata TIGOR XZA PLUS PETROL,39046,Petrol,1st owner,Manual,6.39,12484,Hyderabad
+2019,MG,MG HECTOR SHARP 1.5 DCT PETROL,26167,Petrol,2nd owner,Automatic,12.99,24725,Hyderabad
+2020,KIA,KIA SELTOS GTX PLUS DCT 1.4 PETROL,35115,Petrol,1st owner,Automatic,13.67,26020,Hyderabad
+2019,Honda,Honda Amaze 1.5L I-DTEC V CVT,55909,Diesel,1st owner,Automatic,7.01,13713,Hyderabad
+2013,Hyundai,Hyundai Grand i10 ERA 1.2 KAPPA VTVT,42124,Petrol,2nd owner,Automatic,2.75,7242,Hyderabad
+2020,Skoda,Skoda Rapid STYLE TSI,33693,Petrol,1st owner,Manual,8.4,15989,Hyderabad
+2017,Mahindra,Mahindra XUV500 W10 AT,36172,Diesel,2nd owner,Automatic,10.52,20024,Hyderabad
+2021,Maruti,Maruti New Wagon-R ZXI 1.2 AMT,34224,Petrol,1st owner,Manual,5.73,11202,Hyderabad
+2014,Honda,Honda Amaze 1.2L I-VTEC S,52953,Petrol,1st owner,Manual,3.34,7430,Hyderabad
+2015,Hyundai,Hyundai Creta SX 1.6 DIESEL,62018,Diesel,2nd owner,Manual,7.47,16626,Hyderabad
+2018,Skoda,Skoda Rapid STYLE 1.6 MPI,59650,Petrol,1st owner,Manual,6.47,12645,Hyderabad
+2021,Tata,Tata Harrier XZA PLUS 2.0L DARK EDITION,31764,Diesel,1st owner,Manual,17.35,33024,Hyderabad
+2016,Honda,Honda City 1.5L I-VTEC VX CVT,75272,Petrol,1st owner,Automatic,6.08,11887,Hyderabad
+2021,Hyundai,Hyundai VENUE SX PLUS 1.0 TURBO DCT,19753,Petrol,1st owner,Automatic,9.53,18139,Hyderabad
+2020,Maruti,Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,23829,Petrol,1st owner,Automatic,8.32,15833,Hyderabad
+2019,Maruti,Maruti IGNIS ALPHA 1.2,22343,Petrol,2nd owner,Manual,5.08,9935,Hyderabad
+2019,Hyundai,Hyundai NEW SANTRO SPORTZ CNG,73743,CNG,1st owner,Manual,4.4,8602,Hyderabad
+2022,Tata,Tata ALTROZ XZA PLUS,18364,Petrol,1st owner,Manual,8.25,15703,Hyderabad
+2019,Volkswagen,Volkswagen Ameo HIGHLINE PLUS 1.5L AT 16 ALLOY,60683,Diesel,2nd owner,Automatic,6.36,12436,Hyderabad
+2019,Tata,Tata NEXON XZA PLUS PETROL,19072,Petrol,1st owner,Manual,8.0,15634,Hyderabad
+2016,Volkswagen,Volkswagen Polo HIGHLINE1.5L,75461,Diesel,3rd owner,Manual,4.67,9130,Hyderabad
+2017,Honda,Honda City 1.5L I-VTEC V MT,22437,Petrol,2nd owner,Manual,6.65,13010,Hyderabad
+2016,Honda,Honda City 1.5L I-VTEC VX CVT,73295,Petrol,1st owner,Automatic,6.39,12493,Hyderabad
+2016,Hyundai,Hyundai Elite i20 SPORTZ 1.2,50900,Petrol,1st owner,Manual,4.65,9091,Hyderabad
+2021,Maruti,Maruti Ciaz DELTA AT 1.5 SHVS PETROL,29803,Petrol,1st owner,Automatic,8.48,16135,Hyderabad
+2022,Tata,Tata ALTROZ XZA,10448,Petrol,1st owner,Manual,7.5,14663,Hyderabad
+2017,Mahindra,Mahindra XUV500 W10 AT,84821,Diesel,1st owner,Automatic,10.32,19643,Hyderabad
+2022,Mahindra,Mahindra XUV300 W6 1.2 PETROL AMT,13192,Petrol,2nd owner,Manual,8.2,15603,Hyderabad
+2015,Maruti,Maruti Wagon R 1.0 VXI,55946,Petrol,2nd owner,Manual,2.94,5748,Hyderabad
+2021,Maruti,Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,33773,Petrol,1st owner,Automatic,8.88,16893,Hyderabad
+2019,Hyundai,Hyundai NEW SANTRO SPORTZ CNG,109255,CNG,1st owner,Manual,4.4,9788,Hyderabad
+2018,Tata,Tata NEXON XZA PLUS PETROL,34124,Petrol,1st owner,Manual,7.02,13724,Hyderabad
+2018,Honda,Honda WR-V 1.5L I-DTEC VX MT,101055,Diesel,1st owner,Manual,6.4,14236,Hyderabad
+2021,Maruti,Maruti Ciaz DELTA AT 1.5 SHVS PETROL,17099,Petrol,1st owner,Automatic,8.56,16294,Hyderabad
+2019,Renault,Renault TRIBER RXZ,56210,Petrol,1st owner,Manual,6.01,11759,Hyderabad
+2018,Hyundai,Hyundai Grand i10 SPORTZ AT 1.2 KAPPA VTVT,46769,Petrol,1st owner,Automatic,5.0,9775,Hyderabad
+2017,Honda,Honda City 1.5L I-VTEC SV,49696,Petrol,1st owner,Manual,5.43,10616,Hyderabad
+2021,Maruti,Maruti Baleno ZETA CVT PETROL 1.2,16848,Petrol,1st owner,Automatic,7.35,14369,Hyderabad
+2021,Maruti,Maruti Alto LXI,26941,Petrol,1st owner,Manual,3.24,6334,Hyderabad
+2016,Hyundai,Hyundai Elite i20 SPORTZ 1.2,52603,Petrol,3rd owner,Manual,4.12,8056,Hyderabad
+2021,Tata,Tata Tiago XZA PLUS PETROL,8319,Petrol,1st owner,Manual,6.11,11945,Hyderabad
+2017,Maruti,Maruti Swift VXI,57598,Petrol,2nd owner,Manual,4.49,8786,Hyderabad
+2016,Hyundai,Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,55599,Petrol,1st owner,Automatic,3.42,6686,Hyderabad
+2016,Hyundai,Hyundai Creta SX PLUS AT 1.6 PETROL,57584,Petrol,3rd owner,Automatic,7.32,14307,Hyderabad
+2011,Toyota,Toyota Etios Liva G,75528,Petrol,1st owner,Manual,2.38,11203,Hyderabad
+2021,Maruti,Maruti Dzire VXI,21339,Petrol,1st owner,Manual,6.33,12380,Hyderabad
+2018,Renault,Renault Kwid RXT 1.0 AMT (O),8415,Petrol,1st owner,Manual,3.57,6979,Hyderabad
+2017,Maruti,Maruti Ciaz ZETA 1.4 AT PETROL,74011,Petrol,1st owner,Automatic,5.82,11378,Hyderabad
+2020,Hyundai,Hyundai AURA S 1.2 CNG,67150,CNG,1st owner,Manual,6.2,12128,Hyderabad
+2017,Ford,Ford Ecosport TITANIUM 1.5L PETROL,61267,Petrol,1st owner,Manual,5.44,10635,Hyderabad
+2014,Volkswagen,Volkswagen Polo COMFORTLINE 1.2L,62703,Petrol,1st owner,Manual,3.71,8253,Hyderabad
+2021,Maruti,Maruti New Wagon-R LXI CNG (O) 1.0,35167,CNG,1st owner,Manual,5.46,10674,Hyderabad
+2017,Volkswagen,Volkswagen Polo GT TSI AT,46706,Petrol,2nd owner,Automatic,5.85,11437,Hyderabad
+2013,Maruti,Maruti Wagon R 1.0 LXI CNG,28115,CNG,1st owner,Manual,3.18,14969,Hyderabad
+2021,Renault,Renault TRIBER RXZ AMT,14674,Petrol,2nd owner,Manual,6.21,12141,Hyderabad
+2018,Datsun,Datsun Go Plus A,44918,Petrol,1st owner,Manual,3.04,5943,Hyderabad
+2018,Honda,Honda BR-V 1.5L I-VTEC V,73889,Petrol,1st owner,Manual,7.51,14682,Hyderabad
+2016,Maruti,Maruti Ciaz VXI+,90394,Petrol,1st owner,Manual,4.74,9267,Hyderabad
+2019,Maruti,Maruti Swift VXI,88812,Petrol,1st owner,Manual,4.93,9633,Hyderabad
+2017,Maruti,Maruti Ciaz ALPHA 1.4 PETROL,73974,Petrol,1st owner,Manual,5.99,11711,Hyderabad
+2017,Honda,Honda City 1.5L I-VTEC ZX CVT,55634,Petrol,1st owner,Automatic,7.81,15266,Hyderabad
+2019,Hyundai,Hyundai Elite i20 MAGNA PLUS 1.2,83537,Petrol,1st owner,Manual,5.47,10694,Hyderabad
+2015,Hyundai,Hyundai Elite i20 ASTA 1.2,85367,Petrol,1st owner,Manual,4.11,8035,Hyderabad
+2015,Hyundai,Hyundai Elite i20 ASTA 1.2,33039,Petrol,2nd owner,Manual,4.49,8778,Hyderabad
+2019,Hyundai,Hyundai NEW SANTRO SPORTZ CNG,67801,CNG,1st owner,Manual,4.58,8954,Hyderabad
+2013,Maruti,Maruti Wagon R 1.0 LXI,75871,Petrol,1st owner,Manual,2.6,6847,Hyderabad
+2021,Hyundai,Hyundai NEW I20 ASTA (O) 1.0 TURBO GDI DCT,15744,Petrol,1st owner,Automatic,9.29,17683,Hyderabad
+2023,Tata,Tata PUNCH CREATIVE MT,6534,Petrol,1st owner,Manual,7.89,15425,Hyderabad
+2017,Honda,Honda City 1.5L I-VTEC SV,38492,Petrol,1st owner,Manual,6.03,11789,Hyderabad
+2019,Hyundai,Hyundai Creta SX AT 1.6 PETROL,69454,Petrol,2nd owner,Automatic,9.53,18139,Hyderabad
+2023,Tata,Tata TIGOR XM CNG,4435,CNG,1st owner,Manual,7.02,13718,Hyderabad
+2018,Honda,Honda City 1.5L I-VTEC ZX CVT,31165,Petrol,1st owner,Automatic,8.04,15303,Hyderabad
+2014,Maruti,Maruti Wagon R 1.0 VXI,49629,Petrol,2nd owner,Manual,2.65,5895,Hyderabad
+2021,Nissan,Nissan MAGNITE XV PREMIUM TURBO CVT DUAL TONE,17447,Petrol,1st owner,Automatic,8.86,16864,Hyderabad
+2015,Maruti,Maruti Ciaz ZXI AT,104636,Petrol,1st owner,Automatic,4.98,11078,Hyderabad
+2021,Maruti,Maruti Baleno DELTA PETROL 1.2,12852,Petrol,1st owner,Manual,6.36,12436,Hyderabad
+2019,KIA,KIA SELTOS HTK PLUS 1.5,42495,Petrol,1st owner,Manual,9.25,17607,Hyderabad
+2017,Hyundai,Hyundai Creta SX PLUS 1.6 PETROL DUAL TONE,35056,CNG,2nd owner,Manual,8.21,15627,Hyderabad
+2020,Maruti,Maruti Swift VXI,28936,Petrol,2nd owner,Manual,5.28,10323,Hyderabad
+2019,Maruti,Maruti New Wagon-R LXI CNG 1.0,73245,CNG,1st owner,Manual,4.9,9580,Hyderabad
+2017,Hyundai,Hyundai Creta SX PLUS AT 1.6 PETROL,82230,Petrol,1st owner,Automatic,8.17,15551,Hyderabad
+2015,Maruti,Maruti Celerio VXI,85427,Petrol,1st owner,Manual,2.97,5800,Hyderabad
+2019,Honda,Honda Jazz 1.2L I-VTEC VX CVT,32003,Petrol,1st owner,Automatic,6.63,12965,Hyderabad
+2016,Hyundai,Hyundai Eon SPORTZ,25890,Petrol,1st owner,Manual,2.97,5806,Hyderabad
+2018,Hyundai,Hyundai Verna 1.6 VTVT SX (O) AT,50283,Petrol,1st owner,Automatic,8.19,15589,Hyderabad
+2016,Hyundai,Hyundai Elite i20 ASTA 1.2,16667,Petrol,1st owner,Manual,5.28,10323,Hyderabad
+2014,Volkswagen,Volkswagen Vento HIGHLINE PETROL AT,68877,Petrol,1st owner,Automatic,4.11,9142,Hyderabad
+2018,Honda,Honda WR-V 1.2L I-VTEC S ALIVE EDITION,58541,Petrol,1st owner,Manual,4.98,9736,Hyderabad
+2018,Hyundai,Hyundai NEW SANTRO SPORTZ MT,33220,Petrol,1st owner,Manual,4.1,8016,Hyderabad
+2018,Maruti,Maruti Wagon R 1.0 LXI CNG,38836,CNG,2nd owner,Manual,3.92,7664,Hyderabad
+2015,Ford,Ford Ecosport AMBIENTE 1.5L DIESEL,69002,Diesel,1st owner,Manual,4.73,10519,Hyderabad
+2014,Maruti,Maruti Celerio VXI,34496,Petrol,1st owner,Manual,3.15,7007,Hyderabad
+2021,Tata,Tata Tiago XZ PLUS PETROL,15826,Petrol,1st owner,Manual,5.45,10655,Hyderabad
+2019,Honda,Honda Amaze 1.2L I-VTEC S CVT,33939,Petrol,1st owner,Automatic,5.97,11671,Hyderabad
+2020,Maruti,Maruti Baleno ZETA PETROL 1.2,57595,Petrol,1st owner,Manual,6.76,13216,Hyderabad
+2018,Tata,Tata NEXON XZ PLUS DIESEL,81141,Diesel,2nd owner,Manual,6.91,13509,Hyderabad
+2014,Honda,Honda City 1.5L I-VTEC VX,47299,Petrol,1st owner,Manual,5.29,11767,Hyderabad
+2022,Tata,Tata Tiago XZ PLUS CNG,77730,CNG,1st owner,Manual,6.53,12768,Hyderabad
+2015,Hyundai,Hyundai Elite i20 SPORTZ 1.2,66193,Petrol,1st owner,Manual,4.37,8543,Hyderabad
+2016,Volkswagen,Volkswagen Ameo HIGHLINE1.2L,73846,Petrol,1st owner,Manual,3.95,7722,Hyderabad
+2013,Maruti,Maruti Ertiga ZDI,35446,Diesel,1st owner,Manual,6.67,22154,Hyderabad
+2015,Honda,Honda Amaze 1.2L I-VTEC VX,35139,Petrol,3rd owner,Manual,3.46,6764,Hyderabad
+2014,Honda,Honda Brio VX MT,69540,Petrol,2nd owner,Manual,2.87,6384,Hyderabad
+2021,Hyundai,Hyundai Creta SX IVT 1.5 PETROL,31798,Petrol,1st owner,Manual,13.24,25201,Hyderabad
+2018,Maruti,Maruti Celerio ZXI,74184,Petrol,1st owner,Manual,3.98,7781,Hyderabad
+2016,Hyundai,Hyundai Creta S 1.4 DIESEL,63031,Diesel,1st owner,Manual,7.4,14467,Hyderabad
+2022,Tata,Tata NEXON XMA PETROL,26894,Petrol,1st owner,Manual,8.37,15932,Hyderabad
+2017,Maruti,Maruti Baleno DELTA PETROL 1.2,49136,Petrol,2nd owner,Manual,4.86,9501,Hyderabad
+2021,Hyundai,Hyundai VENUE SX 1.0 TURBO IMT,21166,Petrol,1st owner,Manual,8.54,16255,Hyderabad
+2016,Honda,Honda Jazz 1.2L I-VTEC V,33084,Petrol,1st owner,Manual,4.08,7976,Hyderabad
+2019,Honda,Honda Civic 1.8L I-VTEC VX CVT,15888,Petrol,2nd owner,Automatic,13.11,24962,Hyderabad
+2016,Hyundai,Hyundai Grand i10 ASTA (O) 1.2 KAPPA VTVT,35405,Petrol,1st owner,Automatic,4.28,8367,Hyderabad
+2016,Volkswagen,Volkswagen Polo HIGHLINE1.2L,63237,Petrol,1st owner,Manual,4.28,8367,Hyderabad
+2020,Maruti,Maruti IGNIS DELTA 1.2,19834,Petrol,2nd owner,Manual,4.71,9208,Hyderabad
+2015,Hyundai,Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,37725,Petrol,1st owner,Automatic,3.8,7429,Hyderabad
+2018,Maruti,Maruti Celerio VXI CNG,71504,CNG,2nd owner,Manual,4.16,8127,Hyderabad
+2013,Maruti,Maruti Wagon R 1.0 VXI,10169,Petrol,1st owner,Manual,2.7,7110,Hyderabad
+2020,Hyundai,Hyundai GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,30547,Petrol,1st owner,Manual,6.45,12610,Hyderabad
+2016,Honda,Honda City 1.5L I-VTEC VX CVT,36527,Petrol,1st owner,Automatic,6.39,12493,Hyderabad
+2021,KIA,KIA SONET HTX 1.5,41608,Diesel,1st owner,Manual,9.73,18520,Hyderabad
+2014,Maruti,Maruti Ertiga VXI CNG,67840,CNG,1st owner,Manual,5.53,18368,Hyderabad
+2019,Honda,Honda Jazz 1.2L I-VTEC VX CVT,35824,Petrol,1st owner,Automatic,6.75,13196,Hyderabad
+2014,Tata,Tata Zest XMS PETROL,50397,Petrol,1st owner,Manual,2.91,6473,Hyderabad
+2014,Hyundai,Hyundai Grand i10 MAGNA 1.2 KAPPA VTVT,78629,Petrol,1st owner,Automatic,3.05,6785,Hyderabad
+2016,Honda,Honda City 1.5L I-VTEC VX CVT,47661,Petrol,1st owner,Automatic,6.6,12903,Hyderabad
+2014,Maruti,Maruti Ertiga VDI,59353,Diesel,1st owner,Manual,5.89,15511,Hyderabad
+2016,Hyundai,Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,36731,Petrol,2nd owner,Automatic,3.72,7273,Hyderabad
+2016,Maruti,Maruti Wagon R 1.0 LXI CNG,14176,CNG,1st owner,Manual,3.62,8052,Hyderabad
+2020,Honda,Honda Amaze 1.5L I-DTEC VX CVT,45633,Diesel,1st owner,Automatic,8.3,15798,Hyderabad
+2015,Honda,Honda Amaze 1.2L I-VTEC VX AT,53910,Petrol,3rd owner,Automatic,3.67,7175,Hyderabad
+2017,Hyundai,Hyundai Creta E PLUS 1.6 PETROL,101769,Petrol,1st owner,Manual,6.47,14392,Hyderabad
+2013,Toyota,Toyota Etios Liva G,74269,Petrol,1st owner,Manual,2.77,7294,Hyderabad
+2016,Maruti,Maruti Alto K10 VXI,26933,Petrol,1st owner,Manual,2.68,5239,Hyderabad
+2015,Maruti,Maruti Celerio VXI,81103,Petrol,2nd owner,Manual,3.06,5982,Hyderabad
+2021,Honda,Honda Jazz 1.2L I-VTEC ZX CVT,3169,Petrol,2nd owner,Automatic,8.01,15246,Hyderabad
+2016,Skoda,Skoda Rapid AMBITION 1.6 MPI MT,85436,Petrol,1st owner,Manual,3.82,7474,Hyderabad
+2016,Honda,Honda Amaze 1.2L I-VTEC VX AT,88198,Petrol,1st owner,Automatic,4.29,8387,Hyderabad
+2017,Renault,Renault Kwid RXT 02 Anniversary Edition,23529,Petrol,1st owner,Manual,2.84,5552,Hyderabad
+2020,Renault,Renault Kwid RXT 1.0 AMT (O),3788,Petrol,1st owner,Manual,4.13,8078,Hyderabad
+2013,Volkswagen,Volkswagen Polo COMFORTLINE 1.2L PETROL,56856,Petrol,1st owner,Manual,3.07,8084,Hyderabad
+2019,Tata,Tata NEXON XZA PLUS DIESEL,59753,Diesel,1st owner,Manual,8.12,15456,Hyderabad
+2014,Honda,Honda City 1.5L I-VTEC VX,79414,Petrol,1st owner,Manual,4.99,11100,Hyderabad
+2016,Maruti,Maruti Baleno DELTA CVT PETROL 1.2,88608,Petrol,1st owner,Automatic,4.63,9052,Hyderabad
+2016,Volkswagen,Volkswagen Vento HIGHLINE 1.5 AT,88537,Diesel,1st owner,Automatic,5.77,11280,Hyderabad
+2019,Ford,Ford FREESTYLE TREND PLUS 1.2 PETROL,57116,Petrol,2nd owner,Manual,5.22,10205,Hyderabad
+2015,Honda,Honda City 1.5L I-VTEC SV CVT,105024,Petrol,2nd owner,Automatic,4.7,10449,Hyderabad
+2017,Hyundai,Hyundai Elite i20 SPORTZ 1.2,39646,Petrol,1st owner,Manual,5.14,10049,Hyderabad
+2024,Tata,Tata ALTROZ XZ + SUNROOF,4517,Petrol,1st owner,Manual,8.15,15513,Hyderabad
+2015,Toyota,Toyota Etios G,70388,Petrol,1st owner,Manual,3.77,7370,Hyderabad
+2016,Hyundai,Hyundai Creta SX 1.6 DIESEL,49364,Diesel,1st owner,Manual,8.59,16351,Hyderabad
+2016,Volkswagen,Volkswagen Ameo HIGHLINE1.2L,94518,Petrol,1st owner,Manual,3.83,7488,Hyderabad
+2016,Renault,Renault Kwid RXT 1.0 AMT,18999,Petrol,1st owner,Manual,2.91,5689,Hyderabad
+2018,Tata,Tata NEXON XZA PLUS PETROL,24875,Petrol,1st owner,Manual,7.83,15308,Hyderabad
+2020,Maruti,Maruti New Wagon-R VXI 1.2,16858,Petrol,1st owner,Manual,5.05,9873,Hyderabad
+2020,Tata,Tata NEXON XZ PLUS PETROL SUNROOF,39276,Petrol,1st owner,Manual,7.99,15621,Hyderabad
+2019,Renault,Renault Kwid RXT 1.0 AMT (O),28822,Petrol,1st owner,Manual,3.63,7097,Hyderabad
+2023,Maruti,Maruti Dzire ZXI,9950,Petrol,1st owner,Manual,7.26,14193,Hyderabad
+2016,Maruti,Maruti Vitara Brezza ZDI PLUS DUAL TONE,79484,Diesel,3rd owner,Manual,6.27,12258,Hyderabad
+2019,Mahindra,Mahindra XUV500 W11 AT,54855,Diesel,1st owner,Automatic,12.37,23545,Hyderabad
+2018,Maruti,Maruti Baleno ZETA CVT PETROL 1.2,33201,Petrol,1st owner,Automatic,6.28,12278,Hyderabad
+2013,Hyundai,Hyundai i10 MAGNA 1.1,7287,Petrol,1st owner,Manual,2.56,6741,Hyderabad
+2021,Tata,Tata NEXON XZ PLUS PETROL,5081,Petrol,1st owner,Manual,8.67,16503,Hyderabad
+2019,Renault,Renault Kwid RXT 1.0 AMT (O),50145,Petrol,1st owner,Manual,3.67,7175,Hyderabad
+2019,Maruti,Maruti New Wagon-R LXI CNG 1.0,90297,CNG,1st owner,Manual,5.06,9892,Hyderabad
+2018,Hyundai,Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,13458,Petrol,1st owner,Automatic,4.69,9169,Hyderabad
+2018,Maruti,Maruti Celerio ZXI,19346,Petrol,2nd owner,Manual,4.14,8094,Hyderabad
+2017,Maruti,Maruti Wagon R 1.0 VXI+,28977,Petrol,1st owner,Manual,3.91,7644,Hyderabad
+2015,Toyota,Toyota Corolla Altis VL CVT PETROL,93441,Petrol,2nd owner,Automatic,6.21,12141,Hyderabad
+2017,Maruti,Maruti Baleno ZETA PETROL 1.2,67890,Petrol,1st owner,Manual,5.01,9795,Hyderabad
+2015,Maruti,Maruti Ertiga VXI,65478,Petrol,2nd owner,Manual,5.15,10068,Hyderabad
+2021,Maruti,Maruti New Wagon-R LXI CNG 1.0,34240,CNG,1st owner,Manual,5.35,10467,Hyderabad
+2016,Hyundai,Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,60962,CNG,1st owner,Automatic,3.98,8853,Hyderabad
+2016,Ford,Ford Ecosport TITANIUM+ 1.5L DIESEL,99969,Diesel,1st owner,Manual,5.47,10694,Hyderabad
+2015,Honda,Honda Brio VX AT,36284,Petrol,1st owner,Automatic,4.05,7914,Hyderabad
+2018,Hyundai,Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,24692,Petrol,1st owner,Automatic,4.71,9208,Hyderabad
+2018,Tata,Tata Tiago XZA PETROL,42887,Petrol,2nd owner,Manual,4.41,8622,Hyderabad
+2017,Honda,Honda WR-V 1.2L I-VTEC VX MT,40296,Petrol,1st owner,Manual,5.85,11437,Hyderabad
+2019,Tata,Tata Tiago XZA PETROL,21327,Petrol,2nd owner,Manual,4.6,8986,Hyderabad
+2021,Hyundai,Hyundai GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,9290,Petrol,1st owner,Manual,6.75,13196,Hyderabad
+2016,Hyundai,Hyundai Creta SX PLUS AT 1.6 PETROL,86239,Petrol,2nd owner,Automatic,7.71,15073,Hyderabad
+2014,Honda,Honda City 1.5L I-VTEC VX,45453,Petrol,1st owner,Manual,5.13,11411,Hyderabad
+2017,Hyundai,Hyundai Elite i20 ASTA 1.2,34978,Petrol,1st owner,Manual,5.7,11144,Hyderabad
+2015,Maruti,Maruti Wagon R 1.0 LXI CNG,50895,CNG,2nd owner,Manual,3.13,8232,Hyderabad
+2021,Toyota,Toyota URBAN CRUISER HIGH GRADE MT,22801,Petrol,1st owner,Manual,8.37,15935,Hyderabad
+2022,Mahindra,Mahindra XUV300 W8 (O) 1.2 PETROL AMT,13923,Petrol,1st owner,Manual,10.76,20475,Hyderabad
+2015,Hyundai,Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,45265,Petrol,1st owner,Automatic,4.24,8289,Hyderabad
+2018,Maruti,Maruti Wagon R 1.0 LXI CNG,45233,CNG,1st owner,Manual,4.0,7811,Hyderabad
+2021,Nissan,Nissan MAGNITE XL TURBO,49789,Petrol,1st owner,Manual,6.37,12453,Hyderabad
+2017,Renault,Renault Kwid RXL,39874,Petrol,1st owner,Manual,2.47,4829,Hyderabad
+2022,Maruti,Maruti S PRESSO VXI+,18822,Petrol,2nd owner,Manual,4.05,7924,Hyderabad
+2014,Hyundai,Hyundai Xcent S 1.2,33708,Petrol,1st owner,Manual,3.66,8141,Hyderabad
+2019,Tata,Tata TIGOR XZA PLUS PETROL,61191,Petrol,1st owner,Manual,4.77,9325,Hyderabad
+2014,Honda,Honda Amaze 1.2L I-VTEC S,86775,Petrol,1st owner,Manual,3.42,7608,Hyderabad
+2021,Maruti,Maruti Baleno DELTA PETROL 1.2,59587,Petrol,2nd owner,Manual,5.87,11476,Hyderabad
+2016,Volkswagen,Volkswagen Vento HIGHLINE PETROL AT,91760,Petrol,1st owner,Automatic,5.14,10049,Hyderabad
+2018,Tata,Tata Tiago XZA PETROL,23633,Petrol,1st owner,Manual,4.49,8778,Hyderabad
+2013,Renault,Renault Duster RXL PETROL,38579,Petrol,1st owner,Manual,3.74,9849,Hyderabad
+2023,Hyundai,Hyundai NEW I20 ASTA (O) 1.2 AT,13095,Petrol,2nd owner,Automatic,9.24,17584,Hyderabad
+2019,Maruti,Maruti S PRESSO VXI+,8828,Petrol,1st owner,Manual,4.02,7859,Hyderabad
+2017,Renault,Renault Kwid RXT 1.0 AMT (O),63582,Petrol,1st owner,Manual,3.07,6002,Hyderabad
+2022,Honda,Honda Amaze 1.2L I-VTEC VX CVT,14572,Petrol,1st owner,Automatic,7.82,15288,Hyderabad
+2016,Maruti,Maruti Baleno ZETA DIESEL 1.3,71993,Diesel,1st owner,Manual,5.37,10498,Hyderabad
+2019,Maruti,Maruti Celerio ZXI,58015,Petrol,1st owner,Manual,4.28,8367,Hyderabad
+2015,Maruti,Maruti Swift Dzire VXI,43294,Petrol,1st owner,Manual,4.16,8133,Hyderabad
+2016,Maruti,Maruti Wagon R 1.0 VXI AMT,38149,Petrol,1st owner,Manual,3.46,6764,Hyderabad
+2021,Toyota,Toyota URBAN CRUISER HIGH GRADE MT,20372,Petrol,1st owner,Manual,8.44,16065,Hyderabad
+2017,Honda,Honda WR-V 1.2L I-VTEC S MT,42977,Petrol,1st owner,Manual,5.33,10420,Hyderabad
+2016,Volkswagen,Volkswagen Vento HIGHLINE PETROL AT,38955,Petrol,1st owner,Automatic,5.88,11496,Hyderabad
+2017,Maruti,Maruti Baleno ZETA PETROL 1.2,80598,Petrol,1st owner,Manual,5.19,10147,Hyderabad
+2016,Maruti,Maruti Baleno ALPHA PETROL 1.2,79561,Petrol,2nd owner,Manual,4.78,9345,Hyderabad
+2023,Hyundai,Hyundai GRAND I10 NIOS ERA 1.2 KAPPA VTVT,1520,Petrol,1st owner,Automatic,5.7,11144,Hyderabad
+2017,Maruti,Maruti Dzire VDI AMT,76606,Diesel,1st owner,Manual,5.61,10972,Hyderabad
+2014,Maruti,Maruti Swift Dzire ZXI,37126,Petrol,1st owner,Manual,4.3,9557,Hyderabad
+2017,Maruti,Maruti IGNIS DELTA 1.2 AMT,55777,Petrol,1st owner,Manual,4.58,8954,Hyderabad
+2021,Tata,Tata Safari XZA PLUS 6S,60229,Diesel,1st owner,Manual,16.5,31406,Hyderabad
+2017,Mahindra,Mahindra XUV500 W10 AT,82071,Diesel,1st owner,Automatic,9.85,18749,Hyderabad
+2014,Maruti,Maruti Wagon R 1.0 LXI CNG,61517,CNG,1st owner,Manual,3.15,10471,Hyderabad
+2017,Maruti,Maruti Baleno DELTA PETROL 1.2,33272,Petrol,2nd owner,Manual,4.67,9130,Hyderabad
+2022,Tata,Tata ALTROZ XT PETROL,4876,Petrol,1st owner,Manual,6.64,12973,Hyderabad
+2016,Maruti,Maruti Vitara Brezza ZDI PLUS DUAL TONE,74826,Diesel,2nd owner,Manual,6.59,12884,Hyderabad
+2018,Hyundai,Hyundai Creta SX (O) 1.6 PETROL,58981,Petrol,1st owner,Manual,8.82,16788,Hyderabad
+2013,Maruti,Maruti Swift VXI,53590,Petrol,1st owner,Manual,3.42,9006,Hyderabad
+2021,Honda,Honda Amaze 1.2L I-VTEC V,38070,Petrol,1st owner,Manual,6.2,12121,Hyderabad
+2013,Hyundai,Hyundai i20 MAGNA 1.2,31439,Petrol,2nd owner,Manual,3.04,8005,Hyderabad
+2016,Volkswagen,Volkswagen Ameo HIGHLINE1.2L,18139,Petrol,1st owner,Manual,4.51,8817,Hyderabad
+2017,Maruti,Maruti Celerio VXI CNG,117172,CNG,1st owner,Manual,3.61,8030,Hyderabad
+2017,Hyundai,Hyundai Verna 1.6 VTVT SX,59993,Petrol,1st owner,Automatic,6.63,12962,Hyderabad
+2020,Maruti,Maruti New Wagon-R LXI CNG (O) 1.0,34220,CNG,1st owner,Manual,5.26,10283,Hyderabad
+2020,Maruti,Maruti Vitara Brezza ZXI PLUS AT SHVS,30996,Petrol,1st owner,Automatic,9.24,17583,Hyderabad
+2020,Maruti,Maruti S PRESSO VXI PLUS AMT,26465,Petrol,1st owner,Manual,4.27,8348,Hyderabad
+2019,Hyundai,Hyundai NEW SANTRO SPORTZ AMT,9713,Petrol,1st owner,Manual,4.75,9286,Hyderabad
+2016,Volkswagen,Volkswagen Vento HIGHLINE PETROL AT,57550,Petrol,2nd owner,Automatic,4.92,9619,Hyderabad
+2017,Maruti,Maruti Baleno ZETA CVT PETROL 1.2,76341,Petrol,1st owner,Automatic,5.64,11030,Hyderabad
+2024,Tata,Tata Tiago XT RHYTHM PETROL,1093,Petrol,1st owner,Manual,6.29,12297,Hyderabad
+2019,Hyundai,Hyundai Elite i20 SPORTZ PLUS 1.2 CVT,46678,CNG,2nd owner,Automatic,6.54,12786,Hyderabad
+2018,Maruti,Maruti Celerio VXI CNG,41938,CNG,2nd owner,Manual,4.02,7868,Hyderabad
+2014,Maruti,Maruti Ertiga VXI CNG,69928,CNG,1st owner,Manual,5.89,19573,Hyderabad
+2013,Volkswagen,Volkswagen Polo COMFORTLINE 1.2L PETROL,53254,Petrol,1st owner,Manual,3.01,7930,Hyderabad
+2018,Maruti,Maruti Wagon R 1.0 LXI CNG,54648,CNG,2nd owner,Manual,3.76,7351,Hyderabad
+2021,Tata,Tata PUNCH CREATIVE 1.2 RTN DUAL TONE,41702,Petrol,2nd owner,Automatic,6.57,12844,Hyderabad
+2014,Maruti,Maruti Wagon R 1.0 LXI CNG,55561,CNG,1st owner,Manual,3.11,10322,Hyderabad
+2015,Hyundai,Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,46330,Petrol,1st owner,Automatic,4.19,8192,Hyderabad
+2017,Datsun,Datsun Go Plus T,33977,Petrol,2nd owner,Manual,2.77,5415,Hyderabad
+2014,Honda,Honda City 1.5L I-VTEC SV,54836,Petrol,2nd owner,Manual,4.25,9454,Hyderabad
+2021,Maruti,Maruti Baleno ZETA CVT PETROL 1.2,29796,Petrol,1st owner,Automatic,7.21,14096,Hyderabad
+2014,Maruti,Maruti Wagon R 1.0 LXI CNG,123047,CNG,2nd owner,Manual,2.68,8901,Hyderabad
+2018,Maruti,Maruti Alto K10 VXI,22969,Petrol,1st owner,Manual,3.03,5924,Hyderabad
+2018,Maruti,Maruti IGNIS ZETA 1.2 AMT,19652,Petrol,1st owner,Manual,5.14,10049,Hyderabad
+2022,Maruti,Maruti XL6 ALPHA PLUS AT,22421,Petrol,1st owner,Automatic,12.32,23450,Hyderabad
+2016,Renault,Renault Kwid RXT 0.8,45462,Petrol,1st owner,Manual,2.69,5259,Hyderabad
+2021,Maruti,Maruti New Wagon-R ZXI 1.2 AMT,25217,Petrol,1st owner,Manual,5.83,11398,Hyderabad
+2018,Maruti,Maruti Baleno DELTA PETROL 1.2,55955,Petrol,1st owner,Manual,4.6,8993,Hyderabad
+2019,Hyundai,Hyundai GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,20711,Petrol,1st owner,Manual,5.96,11656,Hyderabad
+2021,Maruti,Maruti Baleno DELTA PETROL 1.2,21296,Petrol,1st owner,Manual,6.46,12629,Hyderabad
+2017,Maruti,Maruti Dzire ZXI PLUS AMT,86469,Petrol,1st owner,Manual,5.25,10260,Hyderabad
+2021,Tata,Tata NEXON XZ PLUS PETROL SUNROOF,11710,Petrol,1st owner,Manual,8.94,17016,Hyderabad
+2015,Maruti,Maruti Wagon R 1.0 LXI CNG,67229,CNG,2nd owner,Manual,3.43,9033,Hyderabad
+2017,Honda,Honda Jazz 1.2L I-VTEC V,90460,Petrol,1st owner,Manual,3.84,7507,Hyderabad
+2022,Tata,Tata PUNCH CREATIVE AMT 1.2 RTN DUAL TONE,3874,Petrol,1st owner,Manual,7.7,15059,Hyderabad
+2016,Maruti,Maruti Ertiga VDI SHVS,61867,Diesel,1st owner,Manual,7.13,13944,Hyderabad
+2015,Hyundai,Hyundai Elite i20 SPORTZ 1.2,54523,Petrol,1st owner,Manual,4.33,8465,Hyderabad
+2022,Hyundai,Hyundai GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,18900,Petrol,1st owner,Automatic,5.9,11538,Hyderabad
+2017,Maruti,Maruti IGNIS DELTA 1.2,68349,Petrol,1st owner,Manual,3.96,7742,Hyderabad
+2018,Tata,Tata NEXON XM PETROL,30412,Petrol,1st owner,Manual,5.96,11652,Hyderabad
+2021,Maruti,Maruti New Wagon-R LXI CNG (O) 1.0,50602,CNG,1st owner,Manual,5.65,11046,Hyderabad
+2019,Renault,Renault TRIBER RXZ,17238,Petrol,1st owner,Manual,5.64,11026,Hyderabad
+2017,Honda,Honda City 1.5L I-VTEC ZX CVT,63064,Petrol,1st owner,Automatic,7.71,15073,Hyderabad
+2020,Tata,Tata ALTROZ XZ PETROL,22541,Petrol,1st owner,Manual,6.51,12733,Hyderabad
+2021,MG,MG HECTOR SHARP 2.0 DIESEL,16683,Diesel,2nd owner,Manual,15.1,28741,Hyderabad
+2018,Maruti,Maruti Ciaz ALPHA AT 1.4 PETROL,53134,Petrol,1st owner,Automatic,6.79,13279,Hyderabad
+2018,Hyundai,Hyundai Creta SX AT 1.6 PETROL,33703,Petrol,2nd owner,Automatic,9.2,17511,Hyderabad
+2018,Honda,Honda City 1.5L I-VTEC VX CVT,92721,Petrol,1st owner,Automatic,7.58,14819,Hyderabad
+2016,Maruti,Maruti Baleno ZETA PETROL 1.2,61944,Petrol,2nd owner,Manual,4.37,8543,Hyderabad
+2022,Hyundai,Hyundai Creta SX 1.5 PETROL,20351,Petrol,1st owner,Manual,13.04,24820,Hyderabad
+2019,Hyundai,Hyundai NEW SANTRO SPORTZ AMT,32784,Petrol,1st owner,Manual,4.28,8367,Hyderabad
+2015,Hyundai,Hyundai Elite i20 SPORTZ 1.2,61158,Petrol,1st owner,Manual,4.41,8613,Hyderabad
+2019,Tata,Tata NEXON XZA PLUS DIESEL,39691,Diesel,1st owner,Manual,8.38,15951,Hyderabad
+2019,Maruti,Maruti Baleno ZETA CVT PETROL 1.2,50512,Petrol,1st owner,Automatic,6.3,12317,Hyderabad
+2017,Skoda,Skoda Rapid STYLE 1.5 TDI AT,110380,Diesel,1st owner,Automatic,6.58,14637,Hyderabad
+2016,Hyundai,Hyundai Elite i20 ASTA 1.2,35276,Petrol,1st owner,Manual,5.08,9931,Hyderabad
+2022,Renault,Renault TRIBER RXT AMT,19575,Petrol,1st owner,Manual,6.53,12766,Hyderabad
+2022,Tata,Tata TIGOR XZ PLUS CNG DUAL TONE,13590,CNG,1st owner,Manual,7.12,13924,Hyderabad
+2012,Hyundai,Hyundai i10 MAGNA 1.2,50258,Petrol,1st owner,Manual,2.1,6975,Hyderabad
+2015,Hyundai,Hyundai Elite i20 SPORTZ 1.2,18761,Petrol,1st owner,Manual,4.8,9384,Hyderabad
+2022,Hyundai,Hyundai AURA S 1.2 CNG,22938,CNG,1st owner,Manual,7.23,14135,Hyderabad
+2017,Maruti,Maruti Dzire VXI,51419,Petrol,1st owner,Manual,4.84,9462,Hyderabad
+2017,Maruti,Maruti Baleno ZETA CVT PETROL 1.2,65882,Petrol,2nd owner,Automatic,5.2,10166,Hyderabad
+2012,Maruti,Maruti Wagon R 1.0 LXI CNG,47281,CNG,2nd owner,Manual,2.36,20968,Hyderabad
+2017,Maruti,Maruti Baleno ZETA PETROL 1.2,28755,Petrol,1st owner,Manual,5.12,10010,Hyderabad
+2013,Hyundai,Hyundai Verna FLUIDIC 1.6 VTVT SX,28229,Petrol,1st owner,Automatic,3.97,10455,Hyderabad
+2015,Hyundai,Hyundai Xcent SX 1.2,67032,Petrol,1st owner,Manual,4.03,7879,Hyderabad
+2016,Maruti,Maruti Ciaz ZXI,82952,Petrol,1st owner,Manual,5.32,10401,Hyderabad
+2022,Tata,Tata Safari XZA PLUS GOLD,25440,Diesel,2nd owner,Manual,19.54,37193,Hyderabad
+2015,Honda,Honda City 1.5L I-VTEC SV CVT,92417,Petrol,2nd owner,Automatic,4.74,9272,Hyderabad
+2022,Maruti,Maruti S PRESSO VXI+,12255,Petrol,1st owner,Manual,4.36,8524,Hyderabad
+2019,Honda,Honda City 1.5L I-VTEC V MT,26740,Petrol,1st owner,Manual,7.69,15034,Hyderabad
+2017,Maruti,Maruti Wagon R 1.0 VXI + (O) AMT,55037,Petrol,2nd owner,Manual,3.9,7620,Hyderabad
+2016,Hyundai,Hyundai Grand i10 MAGNA 1.2 KAPPA VTVT,55234,Petrol,2nd owner,Automatic,3.78,7390,Hyderabad
+2016,Hyundai,Hyundai Creta SX PLUS AT 1.6 PETROL,114749,Petrol,1st owner,Automatic,7.66,17043,Hyderabad
+2019,Renault,Renault Kwid RXT 1.0 (O),13211,Petrol,1st owner,Manual,3.7,7234,Hyderabad
+2018,Maruti,Maruti Celerio ZXI AMT (O),51465,Petrol,1st owner,Manual,3.88,7585,Hyderabad
+2016,Hyundai,Hyundai Elite i20 ASTA 1.2,45223,Petrol,1st owner,Manual,5.08,9939,Hyderabad
+2017,Honda,Honda Jazz 1.2L I-VTEC V AT,24056,Petrol,1st owner,Automatic,5.1,9970,Hyderabad
+2018,Maruti,Maruti Ciaz DELTA 1.4 MT PETROL,66909,Petrol,1st owner,Manual,5.49,10733,Hyderabad
+2013,Honda,Honda Amaze 1.2L I-VTEC S,47742,Petrol,1st owner,Manual,2.78,7321,Hyderabad
+2023,Tata,Tata Tiago XZ PLUS CNG,17267,CNG,1st owner,Manual,7.04,13763,Hyderabad
+2016,Maruti,Maruti Baleno ZETA PETROL 1.2,56642,Petrol,2nd owner,Manual,4.5,8798,Hyderabad
+2015,Honda,Honda City 1.5L I-VTEC VX CVT,106251,Petrol,1st owner,Automatic,4.91,10922,Hyderabad
+2019,Toyota,Toyota Glanza V CVT,88253,Petrol,1st owner,Automatic,6.26,12242,Hyderabad
+2019,Maruti,Maruti S PRESSO VXI+,25804,Petrol,1st owner,Manual,3.76,7351,Hyderabad
+2018,Hyundai,Hyundai Creta SX (O) 1.6 DIESEL,45296,Diesel,2nd owner,Manual,9.89,18825,Hyderabad
+2014,Renault,Renault Duster 110 PS RXZ 4X4 MT DIESEL,106295,Diesel,1st owner,Manual,4.74,12482,Hyderabad
+2017,Honda,Honda Jazz 1.2L I-VTEC V AT,51002,Petrol,1st owner,Automatic,5.0,9782,Hyderabad
+2019,Tata,Tata NEXON XZA PLUS PETROL,23724,Petrol,1st owner,Manual,8.1,15411,Hyderabad
+2013,Honda,Honda City 1.5L I-VTEC V AT SUNROOF,114163,Petrol,2nd owner,Automatic,3.93,10354,Hyderabad
+2019,Ford,Ford Ecosport TITANIUM + 1.5L PETROL AT,78468,Petrol,1st owner,Automatic,7.3,14277,Hyderabad
+2021,Honda,Honda Amaze 1.2L I-VTEC VX,25169,Petrol,1st owner,Manual,7.1,13885,Hyderabad
+2017,Honda,Honda WR-V 1.2L I-VTEC S MT,61780,Petrol,1st owner,Manual,5.11,9990,Hyderabad
+2017,Hyundai,Hyundai Grand i10 SPORTZ (O) AT 1.2 KAPPA VTVT,35763,Petrol,1st owner,Automatic,4.94,9662,Hyderabad
+2023,Hyundai,Hyundai AURA SX PLUS 1.2 AMT,5271,Petrol,1st owner,Manual,7.91,15460,Hyderabad
+2017,Maruti,Maruti Baleno DELTA DIESEL 1.3,90794,Diesel,1st owner,Manual,5.26,10283,Hyderabad
+2018,Maruti,Maruti Ciaz ZETA DIESEL 1.3,80983,Diesel,2nd owner,Manual,6.34,12395,Hyderabad
+2016,Honda,Honda Jazz 1.2L I-VTEC V AT,52714,Petrol,2nd owner,Automatic,4.55,8895,Hyderabad
+2017,Maruti,Maruti Celerio ZXI,32740,Petrol,2nd owner,Manual,3.67,7175,Hyderabad
+2016,Maruti,Maruti Ertiga VDI SHVS,60503,Diesel,1st owner,Manual,7.37,14408,Hyderabad
+2016,Maruti,Maruti Swift ZXI,29383,Petrol,1st owner,Manual,4.7,9196,Hyderabad
+2023,Tata,Tata ALTROZ XZA,9757,Petrol,2nd owner,Manual,7.78,15210,Hyderabad
+2019,Mahindra,Mahindra XUV300 W8 1.2 PETROL,48413,Petrol,1st owner,Manual,7.22,14115,Hyderabad
+2015,Maruti,Maruti Swift VXI,29728,Petrol,1st owner,Manual,3.97,7763,Hyderabad
+2013,Maruti,Maruti Swift Dzire VXI,36884,Petrol,1st owner,Manual,3.19,8400,Hyderabad
+2013,Maruti,Maruti Ertiga VXI CNG,93025,CNG,1st owner,Manual,5.53,26032,Hyderabad
+2020,Tata,Tata ALTROZ XZ PETROL,17774,Petrol,1st owner,Manual,6.5,12708,Hyderabad
+2017,Maruti,Maruti Vitara Brezza ZDI,79709,Diesel,1st owner,Manual,6.74,13177,Hyderabad
+2015,Hyundai,Hyundai Elite i20 MAGNA 1.2,34907,Petrol,1st owner,Manual,4.46,8719,Hyderabad
+2013,Maruti,Maruti Ertiga VXI,63016,Petrol,1st owner,Manual,4.95,13035,Hyderabad
+2019,Honda,Honda Amaze 1.2L I-VTEC V CVT,36147,Petrol,1st owner,Automatic,6.62,12942,Hyderabad
+2022,Honda,Honda City 1.5L I-VTEC ZX CVT,31078,Petrol,1st owner,Automatic,11.17,21261,Hyderabad
+2021,MG,MG HECTOR SHARP 2.0 DIESEL,40433,Diesel,1st owner,Manual,15.03,28608,Hyderabad
+2014,Hyundai,Hyundai Xcent S 1.2,71541,Petrol,1st owner,Manual,3.53,7852,Hyderabad
+2015,Hyundai,Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,40149,Petrol,3rd owner,Automatic,3.39,6629,Hyderabad
+2017,Maruti,Maruti Wagon R 1.0 LXI CNG,69150,CNG,2nd owner,Manual,3.82,7468,Hyderabad
+2015,Maruti,Maruti Wagon R 1.0 LXI CNG,100499,CNG,2nd owner,Manual,3.03,7979,Hyderabad
+2016,Hyundai,Hyundai Eon ERA +,24103,Petrol,2nd owner,Manual,2.24,4379,Hyderabad
+2017,Maruti,Maruti Swift Dzire VXI,20957,Petrol,1st owner,Manual,4.79,9360,Hyderabad
+2014,Hyundai,Hyundai Elite i20 ASTA 1.2,82613,Petrol,2nd owner,Manual,3.76,8367,Hyderabad
+2015,Nissan,Nissan Micra XV CVT,63127,Petrol,1st owner,Automatic,2.99,5846,Hyderabad
+2019,Honda,Honda City 1.5L I-VTEC ZX,30346,Petrol,1st owner,Manual,7.8,15249,Hyderabad
+2022,Hyundai,Hyundai GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,16319,Petrol,1st owner,Manual,6.56,12825,Hyderabad
+2021,Mahindra,Mahindra Thar LX PETROL HT 4WD AT,21099,Petrol,1st owner,Automatic,13.64,25962,Hyderabad
+2016,Maruti,Maruti Ertiga VXI CNG,99311,CNG,1st owner,Manual,6.68,14856,Hyderabad
+2014,Hyundai,Hyundai Verna FLUIDIC 1.6 VTVT SX,70285,Petrol,1st owner,Automatic,4.05,9009,Hyderabad
+2013,Honda,Honda City 1.5L I-VTEC S MT,36448,Petrol,1st owner,Manual,3.89,10244,Hyderabad
+2018,Honda,Honda BR-V 1.5L I-VTEC VX,39720,Petrol,3rd owner,Manual,6.73,13157,Hyderabad
+2019,Renault,Renault TRIBER RXT,75177,Petrol,1st owner,Manual,4.83,9443,Hyderabad
+2022,Renault,Renault Kwid CLIMBER MT 1.0,19908,Petrol,1st owner,Manual,4.43,8661,Hyderabad
+2020,Maruti,Maruti Baleno ALPHA PETROL 1.2,19942,Petrol,1st owner,Manual,6.93,13548,Hyderabad
+2020,KIA,KIA SELTOS HTK PLUS 1.5,50512,Petrol,1st owner,Manual,9.09,17302,Hyderabad
+2014,Hyundai,Hyundai Elite i20 MAGNA 1.2,77153,Petrol,1st owner,Manual,3.52,7830,Hyderabad
+2018,Maruti,Maruti Dzire ZXI,13837,Petrol,2nd owner,Manual,5.35,10450,Hyderabad
+2021,Maruti,Maruti Baleno ZETA PETROL 1.2,19562,Petrol,2nd owner,Manual,6.48,12675,Hyderabad
+2022,Tata,Tata NEXON XZ PLUS (PREMIUM) PETROL JET,6357,Petrol,1st owner,Manual,10.9,20747,Hyderabad
+2016,Ford,Ford Ecosport TITANIUM 1.5L PETROL AT,49017,Petrol,2nd owner,Automatic,5.1,9971,Hyderabad
+2018,Maruti,Maruti Alto 800 VXI,5350,Petrol,1st owner,Manual,2.92,5709,Hyderabad
+2015,Volkswagen,Volkswagen Vento HIGHLINE 1.6 MPI,23675,Petrol,2nd owner,Manual,4.02,7859,Hyderabad
+2016,Maruti,Maruti Alto 800 LXI,45310,Petrol,1st owner,Manual,2.46,4809,Hyderabad
+2018,Hyundai,Hyundai Grand i10 SPORTZ AT 1.2 KAPPA VTVT,16395,Petrol,1st owner,Automatic,5.01,9795,Hyderabad
+2018,Maruti,Maruti Baleno DELTA PETROL 1.2,67513,Petrol,1st owner,Manual,4.49,8778,Hyderabad
+2020,Renault,Renault Kwid RXT 1.0 (O),28537,Petrol,1st owner,Manual,4.12,8055,Hyderabad
+2015,Hyundai,Hyundai Elite i20 ASTA 1.2,39935,Petrol,1st owner,Manual,4.68,9149,Hyderabad
+2014,Hyundai,Hyundai Xcent SX AT 1.2 (O),25599,Petrol,1st owner,Automatic,4.07,9053,Hyderabad
+2017,Honda,Honda WR-V 1.2L I-VTEC VX MT,42473,Petrol,1st owner,Manual,5.89,11515,Hyderabad
+2018,Hyundai,Hyundai Creta E PLUS 1.6 PETROL,54043,Petrol,1st owner,Manual,7.48,14629,Hyderabad
+2014,Hyundai,Hyundai Xcent S 1.2,69853,Petrol,1st owner,Manual,3.64,8104,Hyderabad
+2018,Maruti,Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,94106,Petrol,1st owner,Automatic,6.93,13541,Hyderabad
+2016,Hyundai,Hyundai Grand i10 ASTA (O) 1.2 KAPPA VTVT,16916,Petrol,1st owner,Automatic,4.59,8974,Hyderabad
+2021,Maruti,Maruti S PRESSO VXI+,13726,Petrol,2nd owner,Manual,3.75,7331,Hyderabad
+2015,Skoda,Skoda Rapid AMBITION 1.6 MPI MT PLUS,56456,Petrol,1st owner,Manual,4.11,8035,Hyderabad
+2019,Volkswagen,Volkswagen Ameo TRENDLINE 1.0L,98737,Petrol,2nd owner,Manual,4.18,8172,Hyderabad
+2020,Ford,Ford Ecosport TREND 1.5L DIESEL,46586,Diesel,2nd owner,Manual,7.29,14252,Hyderabad
+2015,Hyundai,Hyundai i20 Active 1.4 SX,73405,Diesel,2nd owner,Manual,5.12,11389,Hyderabad
+2014,Maruti,Maruti Swift VXI,32389,Petrol,1st owner,Manual,3.7,8231,Hyderabad
+2019,Hyundai,Hyundai NEW SANTRO SPORTZ CNG,74215,CNG,1st owner,Manual,4.53,8859,Hyderabad
+2013,Hyundai,Hyundai Verna FLUIDIC 1.6 VTVT SX,70948,Petrol,2nd owner,Automatic,3.63,9559,Hyderabad
+2013,Volkswagen,Volkswagen Polo COMFORTLINE 1.2L PETROL,23393,Petrol,2nd owner,Manual,2.9,7637,Hyderabad
+2022,Nissan,Nissan MAGNITE XV TURBO CVT RED EDITION,12116,Petrol,1st owner,Automatic,8.35,15893,Hyderabad
+2019,Honda,Honda Amaze 1.2L I-VTEC S,19994,Petrol,1st owner,Manual,5.64,11026,Hyderabad
+2015,Hyundai,Hyundai Grand i10 ASTA AT 1.2 KAPPA VTVT,47748,Petrol,2nd owner,Automatic,3.76,7351,Hyderabad
+2022,Maruti,Maruti Baleno DELTA PETROL 1.2,21228,Petrol,1st owner,Manual,6.79,13275,Hyderabad
+2023,Renault,Renault Kwid RXL 1.0 (O),3965,Petrol,1st owner,Manual,4.6,8993,Hyderabad
+2018,Honda,Honda Amaze 1.2L I-VTEC V CVT,67360,Petrol,1st owner,Automatic,5.89,11515,Hyderabad
+2016,Hyundai,Hyundai Xcent BASE 1.2,,2nd owner,,Manual,3.77,8386,Hyderabad
+2015,Volkswagen,Volkswagen Vento HIGHLINE 1.6 MPI,69687,Petrol,1st owner,Manual,4.1,8016,Hyderabad
+2015,Hyundai,Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,47832,Petrol,1st owner,Automatic,4.13,8074,Hyderabad
+2015,Hyundai,Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,33809,Petrol,2nd owner,Automatic,3.46,6764,Hyderabad
+2017,Maruti,Maruti Baleno DELTA PETROL 1.2,70309,Petrol,1st owner,Manual,5.0,9775,Hyderabad
+2022,Hyundai,Hyundai NEW I20 Sportz 1.2 IVT,8477,Petrol,1st owner,Manual,8.21,15627,Hyderabad
+2022,Maruti,Maruti BREZZA ZXI SMART HYBRID,18995,Petrol,1st owner,Manual,9.56,18197,Hyderabad
+2017,Hyundai,Hyundai Verna 1.6 SX (O) CRDI MT,57648,Diesel,2nd owner,Manual,8.17,15551,Hyderabad
+2020,KIA,KIA SELTOS HTK PLUS 1.5,15160,Petrol,1st owner,Manual,10.22,19453,Hyderabad
+2019,Ford,Ford Ecosport TITANIUM 1.0L ECOBOOST SPORTS(SUNROOF),31081,Petrol,2nd owner,Manual,7.43,14532,Hyderabad
+2018,Ford,Ford Ecosport TREND 1.5L DIESEL,89696,Diesel,2nd owner,Manual,5.92,11573,Hyderabad
+2022,Toyota,Toyota URBAN CRUISER PREMIUM GRADE AT,14109,Petrol,1st owner,Automatic,10.76,20481,Hyderabad
+2013,Skoda,Skoda Rapid AMBITION 1.6 MPI MT PLUS,60753,Petrol,1st owner,Manual,2.58,6794,Hyderabad
+2020,Maruti,Maruti New Wagon-R LXI CNG (O) 1.0,73361,CNG,1st owner,Manual,5.36,10479,Hyderabad
+2016,Maruti,Maruti Ertiga ZXI+,42016,Petrol,1st owner,Manual,7.05,13775,Hyderabad
+2018,Hyundai,Hyundai Creta SX AT 1.6 PETROL,38086,Petrol,1st owner,Automatic,9.55,18178,Hyderabad
+2016,Ford,Ford Ecosport TITANIUM 1.5L PETROL AT,50882,Petrol,2nd owner,Automatic,4.71,9208,Hyderabad
+2019,Hyundai,Hyundai VENUE E 1.2,31703,Petrol,1st owner,Manual,6.29,12297,Hyderabad
+2023,Tata,Tata PUNCH ADVENTURE AMT,13901,Petrol,1st owner,Manual,6.94,13568,Hyderabad
+2014,Maruti,Maruti Alto 800 VXI,18949,Petrol,1st owner,Manual,2.11,4694,Hyderabad
+2018,Maruti,Maruti Swift VXI,27033,Petrol,1st owner,Manual,5.09,9957,Hyderabad
+2020,Tata,Tata NEXON XZ PLUS PETROL,20590,Petrol,1st owner,Manual,7.02,13724,Hyderabad
+2022,Maruti,Maruti New Wagon-R VXI CNG 1.0,36213,CNG,1st owner,Manual,6.31,12336,Hyderabad
+2014,Maruti,Maruti Swift Dzire VXI,45963,Petrol,2nd owner,Manual,3.52,7830,Hyderabad
+2018,Ford,Ford FREESTYLE TITANIUM 1.5 DIESEL,44178,Diesel,1st owner,Manual,5.4,10557,Hyderabad
+2016,Maruti,Maruti Vitara Brezza ZDI PLUS,55823,Diesel,2nd owner,Manual,6.44,12590,Hyderabad
+2013,Hyundai,Hyundai Eon ERA +,60385,Petrol,1st owner,Manual,1.77,4661,Hyderabad
+2012,Hyundai,Hyundai i20 ASTA 1.2,32516,Petrol,1st owner,Manual,3.02,10031,Hyderabad
+2018,Maruti,Maruti Baleno ZETA PETROL 1.2,17251,Petrol,1st owner,Manual,5.23,10225,Hyderabad
+2018,Hyundai,Hyundai Creta SX PLUS AT 1.6 DIESEL,56260,Diesel,2nd owner,Automatic,9.1,17321,Hyderabad
+2013,Maruti,Maruti Swift VXI,24237,Petrol,1st owner,Manual,3.43,9033,Hyderabad
+2020,Renault,Renault TRIBER RXL MT,11731,Petrol,2nd owner,Manual,5.48,10714,Hyderabad
+2014,Hyundai,Hyundai Grand i10 MAGNA 1.2 KAPPA VTVT,53224,Petrol,1st owner,Automatic,3.1,6896,Hyderabad
+2016,Tata,Tata Tiago XZ PETROL,50778,Petrol,1st owner,Manual,3.68,7194,Hyderabad
+2023,Hyundai,Hyundai Creta SX (O) IVT 1.5 PETROL,7036,Petrol,1st owner,Manual,16.7,31787,Hyderabad

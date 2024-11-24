@@ -1,0 +1,769 @@
+YOM,Brand,Car_Name,Kms_Driven,Fuel_Type,Owner_Type,Transmission_Type,Price_in_Lakhs,Emi_per_Month,Location
+2018,Maruti,Maruti Alto K10 VXI,23787,Petrol,1st owner,Manual,3.74,7312,Banglore
+2017,Renault,Renault Duster 85 PS RXZ DIESEL,71918,Diesel,2nd owner,Manual,7.24,14154,Banglore
+2016,Maruti,Maruti Alto K10 VXI,65574,Petrol,3rd owner,Manual,3.18,6217,Banglore
+2022,Maruti,Maruti Baleno DELTA PETROL 1.2,23050,Petrol,1st owner,Manual,6.82,13333,Banglore
+2020,Renault,Renault Kwid RXT 1.0 AMT (O),24812,Petrol,1st owner,Manual,4.83,9435,Banglore
+2016,Hyundai,Hyundai Elite i20 ASTA 1.2 (O),43248,Petrol,1st owner,Manual,6.58,12861,Banglore
+2023,Tata,Tata ALTROZ XZ I-TURBO PETROL,15145,Petrol,1st owner,Manual,8.52,16217,Banglore
+2021,Renault,Renault TRIBER RXL MT,54414,Petrol,1st owner,Manual,5.64,11026,Banglore
+2019,KIA,KIA SELTOS HTK PLUS 1.5 DIESEL,40508,Diesel,2nd owner,Manual,11.07,21071,Banglore
+2013,Hyundai,Hyundai i10 SPORTZ 1.2,97083,Petrol,1st owner,Manual,3.25,8558,Banglore
+2022,Tata,Tata ALTROZ XZ I-TURBO PETROL,16535,Petrol,1st owner,Manual,8.28,15760,Banglore
+2022,Tata,Tata ALTROZ XZA PLUS,16221,Petrol,1st owner,Manual,8.46,16103,Banglore
+2018,Volkswagen,Volkswagen Ameo HIGHLINE PLUS 1.5L AT 16 ALLOY,63741,Diesel,2nd owner,Automatic,6.69,13079,Banglore
+2017,Maruti,Maruti Celerio ZXI,38004,Petrol,2nd owner,Manual,4.26,8328,Banglore
+2021,Renault,Renault TRIBER RXZ,37624,Petrol,1st owner,Manual,6.63,12962,Banglore
+2023,Maruti,Maruti IGNIS ZETA 1.2,19638,Petrol,1st owner,Manual,6.47,12649,Banglore
+2015,Hyundai,Hyundai Creta SX PLUS AT 1.6 DIESEL,106215,Diesel,1st owner,Automatic,8.35,18155,Banglore
+2020,Tata,Tata NEXON XZA PLUS (O) PETROL DUAL TONE,45096,Petrol,1st owner,Manual,9.45,17987,Banglore
+2019,Hyundai,Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,50441,Petrol,1st owner,Automatic,5.34,10440,Banglore
+2021,Hyundai,Hyundai VENUE SX PLUS 1.0 TURBO DCT,30322,Petrol,1st owner,Automatic,9.79,18634,Banglore
+2018,Hyundai,Hyundai NEW SANTRO SPORTZ MT,44864,Petrol,1st owner,Manual,4.36,8524,Banglore
+2021,Tata,Tata Tiago XZA PLUS DUAL TONE PETROL,31090,Petrol,1st owner,Manual,6.5,12708,Banglore
+2018,Honda,Honda WR-V 1.2L I-VTEC S MT,58548,Petrol,2nd owner,Manual,5.88,11496,Banglore
+2016,Hyundai,Hyundai Creta SX PLUS 1.6 PETROL,69273,Petrol,2nd owner,Manual,8.09,15399,Banglore
+2018,Renault,Renault Kwid RXT 0.8,39187,Petrol,2nd owner,Manual,2.98,5826,Banglore
+2021,Datsun,Datsun Redi Go T(O) 1.0,20686,Petrol,1st owner,Manual,4.4,8602,Banglore
+2020,Honda,Honda City 1.5L I-VTEC VX CVT,36093,Petrol,2nd owner,Automatic,11.9,22643,Banglore
+2016,Maruti,Maruti Swift VXI,68356,Petrol,1st owner,Manual,5.37,10498,Banglore
+2020,KIA,KIA SELTOS HTK 1.5 DIESEL,51041,Diesel,2nd owner,Manual,10.61,20195,Banglore
+2018,Honda,Honda City 1.5L I-VTEC ZX CVT,25751,Petrol,1st owner,Automatic,10.31,19618,Banglore
+2017,Maruti,Maruti Wagon R 1.0 VXI AMT,44109,Petrol,2nd owner,Manual,4.5,8798,Banglore
+2019,Honda,Honda City 1.5L I-VTEC VX CVT,34447,Petrol,1st owner,Automatic,10.55,20081,Banglore
+2020,Maruti,Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,45065,Petrol,1st owner,Automatic,8.52,16214,Banglore
+2019,Hyundai,Hyundai Creta SX AT 1.6 PETROL,28495,Petrol,2nd owner,Automatic,11.2,21318,Banglore
+2014,Mahindra,Mahindra XUV500 W6,119125,Diesel,3rd owner,Manual,6.7,17644,Banglore
+2019,Hyundai,Hyundai VENUE SX (O) 1.5 CRDI,52061,Diesel,2nd owner,Manual,9.3,17702,Banglore
+2020,Maruti,Maruti S PRESSO VXI+,36650,Petrol,1st owner,Manual,4.17,8152,Banglore
+2022,Tata,Tata PUNCH CREATIVE AMT,45037,Petrol,1st owner,Manual,8.01,15246,Banglore
+2019,Datsun,Datsun Redi Go T(O) 1.0,15881,Petrol,2nd owner,Manual,3.05,5968,Banglore
+2022,Tata,Tata Harrier XZA PLUS 2.0L DUAL TONE,32613,Diesel,2nd owner,Manual,17.08,32503,Banglore
+2018,Hyundai,Hyundai NEW SANTRO SPORTZ MT,44864,Petrol,1st owner,Manual,4.36,8524,Banglore
+2021,Tata,Tata Tiago XZA PLUS DUAL TONE PETROL,31090,Petrol,1st owner,Manual,6.5,12708,Banglore
+2018,Honda,Honda WR-V 1.2L I-VTEC S MT,58548,Petrol,2nd owner,Manual,5.88,11496,Banglore
+2016,Hyundai,Hyundai Creta SX PLUS 1.6 PETROL,69273,Petrol,2nd owner,Manual,8.09,15399,Banglore
+2018,Renault,Renault Kwid RXT 0.8,39187,Petrol,2nd owner,Manual,2.98,5826,Banglore
+2021,Datsun,Datsun Redi Go T(O) 1.0,20686,Petrol,1st owner,Manual,4.4,8602,Banglore
+2020,Honda,Honda City 1.5L I-VTEC VX CVT,36093,Petrol,2nd owner,Automatic,11.9,22643,Banglore
+2016,Maruti,Maruti Swift VXI,68356,Petrol,1st owner,Manual,5.37,10498,Banglore
+2020,KIA,KIA SELTOS HTK 1.5 DIESEL,51041,Diesel,2nd owner,Manual,10.61,20195,Banglore
+2018,Honda,Honda City 1.5L I-VTEC ZX CVT,25751,Petrol,1st owner,Automatic,10.31,19618,Banglore
+2017,Maruti,Maruti Wagon R 1.0 VXI AMT,44109,Petrol,2nd owner,Manual,4.5,8798,Banglore
+2019,Honda,Honda City 1.5L I-VTEC VX CVT,34447,Petrol,1st owner,Automatic,10.55,20081,Banglore
+2020,Maruti,Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,45065,Petrol,1st owner,Automatic,8.52,16214,Banglore
+2019,Hyundai,Hyundai Creta SX AT 1.6 PETROL,28495,Petrol,2nd owner,Automatic,11.2,21318,Banglore
+2014,Mahindra,Mahindra XUV500 W6,119125,Diesel,3rd owner,Manual,6.7,17644,Banglore
+2019,Hyundai,Hyundai VENUE SX (O) 1.5 CRDI,52061,Diesel,2nd owner,Manual,9.3,17702,Banglore
+2020,Maruti,Maruti S PRESSO VXI+,36650,Petrol,1st owner,Manual,4.17,8152,Banglore
+2022,Tata,Tata PUNCH CREATIVE AMT,45037,Petrol,1st owner,Manual,8.01,15246,Banglore
+2019,Datsun,Datsun Redi Go T(O) 1.0,15881,Petrol,2nd owner,Manual,3.05,5968,Banglore
+2022,Tata,Tata Harrier XZA PLUS 2.0L DUAL TONE,32613,Diesel,2nd owner,Manual,17.08,32503,Banglore
+2016,Maruti,Maruti Ciaz ZXI AT,87285,Petrol,2nd owner,Automatic,5.87,11476,Banglore
+2022,KIA,KIA CARENS LUXURY 1.4 PETROL 7 STR,11437,Petrol,1st owner,Manual,15.8,30074,Banglore
+2022,KIA,KIA CARENS LUXURY PLUS 1.4 PETROL 7 STR,10776,Petrol,1st owner,Manual,16.2,30835,Banglore
+2015,Maruti,Maruti Celerio VXI AMT,33709,Petrol,1st owner,Manual,3.93,7683,Banglore
+2021,KIA,KIA SONET GTX PLUS 1.0 DCT DUAL TONE,32031,Petrol,1st owner,Automatic,11.86,22574,Banglore
+2019,Renault,Renault Kwid RXT 1.0 AMT (O),23998,Petrol,1st owner,Manual,4.82,9428,Banglore
+2022,Hyundai,Hyundai VENUE SX 1.0 (O) TURBO IMT,35746,Petrol,1st owner,Manual,11.1,21128,Banglore
+2019,Hyundai,Hyundai VENUE SX PLUS 1.0 TURBO DCT,44058,Petrol,2nd owner,Automatic,8.65,16458,Banglore
+2015,Maruti,Maruti Celerio ZXI AMT,70600,Petrol,1st owner,Manual,3.77,7370,Banglore
+2022,Tata,Tata NEXON XZA PLUS (HS) PETROL,26350,Petrol,1st owner,Manual,11.06,21052,Banglore
+2021,Renault,Renault Kwid RXL 1.0 AMT,10068,Petrol,1st owner,Manual,4.6,8993,Banglore
+2017,Honda,Honda City 1.5L I-VTEC ZX CVT,42069,Petrol,1st owner,Automatic,8.62,16407,Banglore
+2021,Renault,Renault TRIBER RXL MT,14940,Petrol,1st owner,Manual,5.77,11280,Banglore
+2022,Hyundai,Hyundai NEW I20 ASTA (O) 1.2 AT,13384,Petrol,1st owner,Automatic,10.0,19042,Banglore
+2022,Mahindra,Mahindra XUV300 W6 1.2 PETROL,45733,Petrol,1st owner,Manual,8.67,16503,Banglore
+2014,Renault,Renault Pulse RX L DIESEL,83897,Diesel,1st owner,Manual,2.92,7689,Banglore
+2021,Tata,Tata ALTROZ XE PETROL,37071,Petrol,2nd owner,Manual,5.71,11163,Banglore
+2021,Hyundai,Hyundai Verna SX (O) 1.5 VTVT IVT,27044,Petrol,2nd owner,Automatic,12.14,23107,Banglore
+2016,Maruti,Maruti Baleno ZETA CVT PETROL 1.2,83637,Petrol,3rd owner,Automatic,5.02,9816,Banglore
+2019,Volkswagen,Volkswagen Polo COMFORTLINE 1.0L MPI,45905,Petrol,2nd owner,Manual,5.99,11711,Banglore
+2017,Maruti,Maruti Baleno ALPHA PETROL 1.2,67549,Petrol,1st owner,Manual,6.45,12615,Banglore
+2018,Hyundai,Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,65498,Petrol,3rd owner,Automatic,5.03,9834,Banglore
+2012,Hyundai,Hyundai i20 SPORTZ 1.2,52538,Petrol,2nd owner,Manual,4.01,13315,Banglore
+2018,Mahindra,Mahindra KUV 100 NXT K8 P 6 STR,35107,Petrol,1st owner,Manual,5.15,10061,Banglore
+2015,Mahindra,Mahindra XUV500 W10,75492,Diesel,2nd owner,Manual,8.65,18807,Banglore
+2023,Renault,Renault Kwid CLIMBER AMT 1.0,6372,Petrol,1st owner,Manual,5.8,11339,Banglore
+2022,Hyundai,Hyundai NEW I20 SPORTZ 1.2 MT DUAL TONE,39380,Petrol,1st owner,Manual,7.41,14487,Banglore
+2015,Maruti,Maruti Ciaz ZXI+,25381,Petrol,1st owner,Manual,6.08,11894,Banglore
+2021,Mahindra,Mahindra Thar LX P 4WD AT CONVERTIBLE,52339,Petrol,1st owner,Automatic,13.37,25449,Banglore
+2017,Toyota,Toyota Innova Crysta TOURING SPORT DIESEL MT,40409,Diesel,2nd owner,Manual,17.64,33576,Banglore
+2022,Hyundai,Hyundai Creta SX (O) 1.4 TURBO DCT,20634,Petrol,1st owner,Automatic,16.87,32110,Banglore
+2017,Honda,Honda WR-V 1.2L I-VTEC VX MT,46533,Petrol,2nd owner,Manual,6.45,12611,Banglore
+2022,Hyundai,Hyundai VENUE S 1.2,9802,Petrol,1st owner,Manual,9.05,17227,Banglore
+2022,Hyundai,Hyundai Creta SX (O) AT 1.5 DIESEL,27509,Diesel,1st owner,Automatic,17.05,32453,Banglore
+2019,Honda,Honda Amaze 1.5L I-DTEC V CVT,54550,Diesel,2nd owner,Automatic,6.75,13189,Banglore
+2022,Maruti,Maruti Swift ZXI PLUS AMT DUAL TONE,31707,Petrol,1st owner,Manual,8.24,15684,Banglore
+2021,Nissan,Nissan MAGNITE XV DUAL TONE,9840,Petrol,1st owner,Manual,7.07,13828,Banglore
+2013,Nissan,Nissan Micra XV CVT,63505,Petrol,2nd owner,Automatic,3.09,8137,Banglore
+2016,Honda,Honda Amaze 1.2L I-VTEC S,47097,Petrol,1st owner,Manual,4.73,9243,Banglore
+2020,Tata,Tata NEXON XZ PLUS PETROL,67172,Petrol,1st owner,Manual,7.5,14663,Banglore
+2021,Mahindra,Mahindra Thar LX P 4WD AT CONVERTIBLE,54460,Petrol,1st owner,Automatic,13.37,25445,Banglore
+2015,Hyundai,Hyundai Elite i20 ASTA 1.2,109224,Petrol,1st owner,Manual,5.14,11434,Banglore
+2022,Volkswagen,Volkswagen TAIGUN TOPLINE 1.0 TSI MT,16066,Petrol,1st owner,Manual,13.96,26581,Banglore
+2021,Toyota,Toyota Glanza G CVT,28418,Petrol,2nd owner,Automatic,7.1,13881,Banglore
+2016,Maruti,Maruti Swift VXI,70069,Petrol,1st owner,Manual,5.36,10470,Banglore
+2014,Honda,Honda Brio VX AT,93107,Petrol,1st owner,Automatic,3.56,7917,Banglore
+2019,Maruti,Maruti Celerio X ZXI (O) AMT,27393,Petrol,2nd owner,Manual,4.79,9370,Banglore
+2019,Toyota,Toyota YARIS G MT,42403,Petrol,1st owner,Manual,7.94,15519,Banglore
+2016,Maruti,Maruti Baleno DELTA CVT PETROL 1.2,62524,Petrol,2nd owner,Automatic,5.45,10655,Banglore
+2023,Maruti,Maruti Celerio ZXI AMT,17052,Petrol,1st owner,Manual,6.24,12199,Banglore
+2021,Hyundai,Hyundai Creta SX 1.5 PETROL,24743,Petrol,1st owner,Manual,13.2,25125,Banglore
+2018,Datsun,Datsun Redi Go S 1.0 AMT,54716,Petrol,3rd owner,Manual,2.84,5552,Banglore
+2020,Maruti,Maruti Vitara Brezza ZXI PLUS AT SHVS,50421,Petrol,1st owner,Automatic,9.12,17359,Banglore
+2020,Hyundai,Hyundai Verna SX (O) 1.5 CRDI,61488,Diesel,1st owner,Manual,12.23,23279,Banglore
+2018,Jeep,Jeep Compass SPORT 1.4 PETROL,26635,Petrol,1st owner,Manual,11.68,22224,Banglore
+2011,Hyundai,Hyundai i20 SPORTZ (O) 1.2,65841,Petrol,2nd owner,Manual,2.97,13981,Banglore
+2021,Hyundai,Hyundai ALCAZAR PRESTIGE (O) 6STR 2.0 AT,12775,Petrol,1st owner,Automatic,16.39,31190,Banglore
+2018,Honda,Honda City 1.5L I-VTEC VX,85766,Petrol,2nd owner,Manual,7.24,14152,Banglore
+2016,Maruti,Maruti Ciaz ZXI+,75940,Petrol,1st owner,Manual,5.77,11286,Banglore
+2017,Honda,Honda WR-V 1.5L I-DTEC VX MT,32067,Diesel,2nd owner,Manual,7.38,14428,Banglore
+2017,Hyundai,Hyundai Elite i20 ASTA 1.2,82689,Petrol,2nd owner,Manual,5.72,11183,Banglore
+2014,Hyundai,Hyundai i20 SPORTZ 1.2,57848,Petrol,1st owner,Manual,4.62,10277,Banglore
+2020,KIA,KIA SONET GTX PLUS 1.5D AT,52562,Diesel,1st owner,Automatic,11.47,21832,Banglore
+2019,Renault,Renault Kwid CLIMBER 1.0,46862,Petrol,1st owner,Manual,3.56,6960,Banglore
+2017,Hyundai,Hyundai Creta SX PLUS 1.6 PETROL,68811,Petrol,2nd owner,Manual,9.05,17226,Banglore
+2017,Maruti,Maruti Dzire VDI AMT,77473,Diesel,2nd owner,Manual,6.6,12903,Banglore
+2021,Skoda,Skoda KUSHAQ AMBITION 1.0L TSI AT,17310,Petrol,2nd owner,Automatic,12.0,22844,Banglore
+2022,Tata,Tata Safari XZA PLUS DARK EDITION,15681,Diesel,1st owner,Manual,20.23,38502,Banglore
+2020,Maruti,Maruti Ciaz ALPHA 1.5 SHVS PETROL,52942,Petrol,2nd owner,Manual,7.63,14917,Banglore
+2021,Tata,Tata TIGOR XZ PLUS PETROL,53454,Petrol,1st owner,Manual,6.25,12219,Banglore
+2016,Volkswagen,Volkswagen Polo GT TSI AT,87513,Petrol,3rd owner,Automatic,6.56,12825,Banglore
+2018,Mahindra,Mahindra XUV500 W6,80432,Diesel,1st owner,Manual,9.82,18691,Banglore
+2018,Maruti,Maruti Ciaz DELTA DIESEL 1.3,80393,Diesel,2nd owner,Manual,6.88,13451,Banglore
+2019,Hyundai,Hyundai Creta SX AT 1.6 PETROL,58195,Petrol,2nd owner,Automatic,10.55,20081,Banglore
+2018,Renault,Renault Kwid RXT 1.0 (O),48905,Petrol,1st owner,Manual,3.49,6823,Banglore
+2017,Ford,Ford Ecosport TITANIUM 1.5L PETROL AT,47695,Petrol,2nd owner,Automatic,6.77,13234,Banglore
+2018,Jeep,Jeep Compass LIMITED (O) 2.0 DIESEL 4X4,80713,Diesel,2nd owner,Manual,12.98,24716,Banglore
+2018,Ford,Ford Ecosport TREND 1.5L DIESEL,47693,Diesel,2nd owner,Manual,7.34,14350,Banglore
+2023,Maruti,Maruti New Wagon-R ZXI 1.2,3026,Petrol,1st owner,Manual,6.59,12880,Banglore
+2023,Tata,Tata PUNCH CREATIVE IRA AMT 1.2 RTN DUAL TONE,7511,Petrol,1st owner,Manual,8.67,16503,Banglore
+2021,Skoda,Skoda Rapid AMBITION AT TSI,50445,Petrol,1st owner,Automatic,9.67,18412,Banglore
+2017,Hyundai,Hyundai Verna 1.6 VTVT SX AT,58359,Petrol,2nd owner,Automatic,7.06,13795,Banglore
+2012,Honda,Honda Jazz 1.2L I-VTEC X,32864,Petrol,2nd owner,Manual,3.29,10937,Banglore
+2019,Hyundai,Hyundai Creta SX AT 1.6 PETROL,43539,Petrol,2nd owner,Automatic,10.46,19904,Banglore
+2016,Ford,Ford Ecosport TREND 1.5L PETROL,93059,Petrol,1st owner,Manual,5.55,10850,Banglore
+2019,Renault,Renault Kwid CLIMBER 1.0 (O),24353,Petrol,2nd owner,Manual,4.38,8567,Banglore
+2020,Tata,Tata ALTROZ XZ PETROL,45019,Petrol,2nd owner,Manual,6.57,12844,Banglore
+2023,Mahindra,Mahindra XUV700 AX 3 P AT 5 STR,16638,Petrol,1st owner,Automatic,18.0,34261,Banglore
+2019,Datsun,Datsun Redi Go A,66264,Petrol,1st owner,Manual,2.48,4848,Banglore
+2017,Honda,Honda Jazz 1.2L I-VTEC V,55432,Petrol,2nd owner,Manual,5.67,11081,Banglore
+2016,Maruti,Maruti S Cross ZETA 1.3,78922,Diesel,2nd owner,Manual,6.37,12453,Banglore
+2018,Maruti,Maruti Baleno ALPHA CVT PETROL 1.2,26277,Petrol,2nd owner,Automatic,6.74,13177,Banglore
+2018,Honda,Honda BR-V 1.5L I-VTEC V CVT,81477,Petrol,1st owner,Automatic,7.9,15445,Banglore
+2014,Renault,Renault Duster 85 PS RXE DIESEL ADVENTURE,73401,Diesel,1st owner,Manual,5.5,14481,Banglore
+2018,Tata,Tata NEXON XZA PLUS DIESEL,90759,Diesel,1st owner,Manual,8.06,15341,Banglore
+2018,Hyundai,Hyundai Verna 1.6 VTVT SX,55676,Petrol,2nd owner,Automatic,7.68,15015,Banglore
+2020,Honda,Honda Jazz 1.2L I-VTEC ZX,62299,Petrol,1st owner,Manual,7.22,14121,Banglore
+2016,Nissan,Nissan Micra Active XV,87882,Petrol,1st owner,Manual,3.17,6197,Banglore
+2021,Maruti,Maruti S PRESSO VXI+,31247,Petrol,1st owner,Manual,4.58,8954,Banglore
+2022,KIA,KIA SONET GTX PLUS 1.0 IMT,9477,Petrol,1st owner,Manual,11.74,22341,Banglore
+2012,Toyota,Toyota Etios Liva GD,,2nd owner,,Manual,3.6,16946,Banglore
+2019,KIA,KIA SELTOS GTX PLUS DCT 1.4 PETROL,60467,Petrol,1st owner,Automatic,12.89,24535,Banglore
+2016,Maruti,Maruti Ciaz ZXI AT,96520,Petrol,2nd owner,Automatic,5.34,10444,Banglore
+2021,Renault,Renault Kwid RXT 1.0 (O),32889,Petrol,1st owner,Manual,4.37,8541,Banglore
+2021,Skoda,Skoda Rapid STYLE AT TSI,41204,Petrol,1st owner,Automatic,10.52,20016,Banglore
+2019,Hyundai,Hyundai NEW SANTRO MAGNA,33673,Petrol,2nd owner,Manual,3.99,7802,Banglore
+2017,Renault,Renault Kwid RXT 0.8,48581,Petrol,3rd owner,Manual,2.98,5826,Banglore
+2021,Renault,Renault Kwid CLIMBER 1.0 (O),41785,Petrol,1st owner,Manual,4.38,8563,Banglore
+2022,Tata,Tata NEXON XZA PLUS (HS) PETROL,15617,Petrol,1st owner,Manual,10.97,20880,Banglore
+2021,MG,MG HECTOR SMART HYBRID 1.5 PETROL,13989,Petrol,1st owner,Manual,14.6,27794,Banglore
+2022,KIA,KIA SONET GTX PLUS 1.0 DCT,19749,Petrol,1st owner,Automatic,12.06,22961,Banglore
+2020,Honda,Honda City 1.5L I-VTEC VX CVT,41750,Petrol,1st owner,Automatic,10.68,20330,Banglore
+2017,Datsun,Datsun Redi Go T(O) 1.0,32591,Petrol,2nd owner,Manual,2.35,4594,Banglore
+2021,Maruti,Maruti Celerio ZXI PLUS AGS,45807,Petrol,1st owner,Manual,5.9,11535,Banglore
+2019,Hyundai,Hyundai NEW SANTRO ASTA MT,55677,Petrol,1st owner,Manual,4.4,8602,Banglore
+2021,KIA,KIA SELTOS GTX PLUS 1.4 PETROL DCT DUAL TONE,30414,Petrol,1st owner,Automatic,15.22,28970,Banglore
+2019,Renault,Renault Duster 110 PS RXZ DIESEL,80306,Diesel,2nd owner,Manual,8.21,15627,Banglore
+2016,Hyundai,Hyundai Creta E PLUS 1.6 PETROL,48665,Petrol,2nd owner,Manual,8.0,15227,Banglore
+2017,Renault,Renault Duster RXL PETROL,67614,Petrol,2nd owner,Manual,6.28,12283,Banglore
+2016,Hyundai,Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,42552,Petrol,1st owner,Automatic,4.64,9071,Banglore
+2019,Hyundai,Hyundai Creta SX 1.6 DIESEL,75395,Diesel,1st owner,Manual,11.18,21280,Banglore
+2022,Mahindra,Mahindra XUV300 W8 (O) 1.2 PETROL AMT,11682,Petrol,2nd owner,Manual,11.12,21166,Banglore
+2021,Mahindra,Mahindra XUV300 W8 (O) 1.2 PETROL,6528,Petrol,1st owner,Manual,10.63,20233,Banglore
+2017,Hyundai,Hyundai Elite i20 ASTA 1.2,51852,Petrol,2nd owner,Manual,6.08,11887,Banglore
+2022,MG,MG HECTOR PLUS SELECT 2.0 DIESEL TURBO MT 7-STR,15431,Diesel,1st owner,Manual,18.95,36071,Banglore
+2019,Renault,Renault Kwid RXT 1.0 (O),20725,Petrol,1st owner,Manual,4.24,8291,Banglore
+2021,Maruti,Maruti Baleno ZETA CVT PETROL 1.2,29413,Petrol,1st owner,Automatic,7.95,15542,Banglore
+2022,KIA,KIA SONET HTX PLUS 1.0 IMT,14039,Petrol,1st owner,Manual,11.35,21609,Banglore
+2017,Renault,Renault Duster 110 PS RXL 4X2 AMT,60774,Diesel,2nd owner,Manual,7.45,14565,Banglore
+2018,Datsun,Datsun Redi Go S 1.0,43021,Petrol,1st owner,Manual,2.76,5398,Banglore
+2021,Tata,Tata NEXON XZ PLUS (O) PETROL,19430,Petrol,2nd owner,Manual,9.13,17386,Banglore
+2017,Hyundai,Hyundai Creta SX PLUS AT 1.6 PETROL,80561,Petrol,2nd owner,Automatic,8.55,16277,Banglore
+2014,Renault,Renault Duster 85 PS RXE DIESEL ADVENTURE,90841,Diesel,1st owner,Manual,5.44,14326,Banglore
+2013,Hyundai,Hyundai i20 ASTA 1.2,66364,Petrol,2nd owner,Manual,3.92,10323,Banglore
+2023,Renault,Renault Kwid CLIMBER AMT 1.0,4082,Petrol,1st owner,Manual,5.95,11630,Banglore
+2020,Tata,Tata NEXON XZA PLUS (O) PETROL DUAL TONE,59285,Petrol,1st owner,Manual,9.07,17259,Banglore
+2014,Hyundai,Hyundai i20 SPORTZ 1.2,69502,Petrol,2nd owner,Manual,4.3,9565,Banglore
+2014,Nissan,Nissan Micra XV CVT,82542,Petrol,1st owner,Automatic,3.38,7519,Banglore
+2017,Renault,Renault Kwid RXL 1.0,30848,Petrol,1st owner,Manual,3.18,6217,Banglore
+2019,Renault,Renault Kwid RXT 1.0 (O),45725,Petrol,2nd owner,Manual,3.62,7077,Banglore
+2017,Hyundai,Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,60651,Petrol,1st owner,Automatic,4.68,9159,Banglore
+2021,Hyundai,Hyundai VENUE SX 1.0 (O) TURBO IMT,17981,Petrol,1st owner,Manual,10.25,19512,Banglore
+2023,Renault,Renault Kwid RXT 1.0 AMT,1343,Petrol,2nd owner,Manual,5.65,11046,Banglore
+2019,Maruti,Maruti Celerio VXI AMT,28334,Petrol,2nd owner,Manual,5.08,9931,Banglore
+2021,Maruti,Maruti Baleno DELTA CVT PETROL 1.2,19123,Petrol,1st owner,Automatic,7.35,14369,Banglore
+2019,Mahindra,Mahindra XUV300 W8 (O) 1.5 DIESEL,35712,Diesel,2nd owner,Manual,9.83,18710,Banglore
+2011,Hyundai,Hyundai i10 MAGNA 1.1,70589,Petrol,2nd owner,Manual,2.4,11298,Banglore
+2016,Maruti,Maruti Ciaz ZXI+,34800,Petrol,2nd owner,Manual,5.86,11456,Banglore
+2016,Hyundai,Hyundai Grand i10 ASTA (O) 1.2 KAPPA VTVT,49862,Petrol,1st owner,Automatic,4.85,9484,Banglore
+2019,Hyundai,Hyundai NEW SANTRO SPORTZ AMT,52278,Petrol,1st owner,Manual,4.8,9384,Banglore
+2017,Skoda,Skoda Rapid STYLE 1.5 TDI AT,95602,Diesel,1st owner,Automatic,8.61,16379,Banglore
+2016,Hyundai,Hyundai Elite i20 ASTA 1.2 (O),71393,Petrol,1st owner,Manual,6.01,11750,Banglore
+2016,Honda,Honda Amaze 1.2L I-VTEC VX,43434,Petrol,2nd owner,Manual,4.47,8747,Banglore
+2020,Renault,Renault Kwid RXT 1.0 AMT (O),38507,Petrol,1st owner,Manual,4.68,9144,Banglore
+2023,Tata,Tata Tiago XZA PLUS PETROL,10526,Petrol,1st owner,Manual,7.27,14213,Banglore
+2017,Maruti,Maruti Baleno ZETA PETROL 1.2,48380,Petrol,1st owner,Manual,6.02,11769,Banglore
+2021,Tata,Tata ALTROZ XZ PLUS I-TURBO PETROL DARK EDITION,25058,Petrol,1st owner,Manual,7.92,15484,Banglore
+2022,KIA,KIA SELTOS X LINE 1.5 DIESEL AT,43707,Diesel,2nd owner,Automatic,16.1,30645,Banglore
+2015,Maruti,Maruti Celerio VXI AMT,52672,Petrol,1st owner,Manual,3.82,7468,Banglore
+2018,Renault,Renault Kwid 1.0 MARVEL IRON MAN EDITION,47928,Petrol,1st owner,Manual,3.57,6979,Banglore
+2020,Hyundai,Hyundai AURA SX PLUS 1.2 AMT CRDI,49985,Diesel,2nd owner,Manual,7.78,15210,Banglore
+2017,Hyundai,Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,40795,Petrol,1st owner,Automatic,4.93,9638,Banglore
+2016,Maruti,Maruti Swift VXI,92642,Petrol,2nd owner,Manual,4.95,9677,Banglore
+2018,Maruti,Maruti Ciaz ZETA 1.4 AT PETROL,50334,Petrol,2nd owner,Automatic,6.46,12629,Banglore
+2012,Honda,Honda City 1.5L I-VTEC S MT,87836,Petrol,2nd owner,Manual,3.9,12947,Banglore
+2022,KIA,KIA CARENS LUXURY PLUS 1.4 PETROL 7 STR,15197,Petrol,1st owner,Manual,16.84,32048,Banglore
+2021,Renault,Renault Kwid CLIMBER 1.0 AMT (O),29637,Petrol,1st owner,Manual,5.23,10225,Banglore
+2015,Hyundai,Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,60987,Petrol,2nd owner,Automatic,4.13,8074,Banglore
+2016,Maruti,Maruti Celerio VXI AMT (O),38929,Petrol,2nd owner,Manual,4.18,8172,Banglore
+2019,Hyundai,Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,51615,Petrol,1st owner,Automatic,5.12,10004,Banglore
+2015,Maruti,Maruti Swift VXI,34794,Petrol,1st owner,Manual,5.06,9897,Banglore
+2019,Hyundai,Hyundai VENUE SX PLUS 1.0 TURBO DCT,21881,Petrol,1st owner,Automatic,9.16,17435,Banglore
+2016,Hyundai,Hyundai Elite i20 ASTA 1.2 (O),37075,Petrol,1st owner,Manual,5.65,11046,Banglore
+2014,Renault,Renault Duster 85 PS RXL DIESEL,82677,Diesel,2nd owner,Manual,5.49,14457,Banglore
+2017,Maruti,Maruti Baleno ALPHA PETROL 1.2,57103,Petrol,1st owner,Manual,6.63,12957,Banglore
+2021,KIA,KIA SONET GTX PLUS 1.5 AT,27903,Diesel,1st owner,Automatic,12.32,23450,Banglore
+2020,Maruti,Maruti S PRESSO VXI+,21206,Petrol,1st owner,Manual,4.16,8133,Banglore
+2018,Maruti,Maruti Baleno ALPHA CVT PETROL 1.2,24368,Petrol,2nd owner,Automatic,6.61,12923,Banglore
+2022,KIA,KIA SELTOS GTX PLUS 1.4 PETROL,23020,Petrol,1st owner,Manual,14.77,28113,Banglore
+2015,Honda,Honda Jazz 1.2L I-VTEC V AT,55600,Petrol,2nd owner,Automatic,5.53,10807,Banglore
+2018,Maruti,Maruti Celerio ZXI AMT,35370,Petrol,1st owner,Manual,4.88,9540,Banglore
+2017,Hyundai,Hyundai Elite i20 ASTA 1.2 (O),27011,Petrol,1st owner,Manual,6.74,13177,Banglore
+2022,KIA,KIA CARENS LUXURY PLUS 1.4 PETROL 7 STR,38427,Petrol,1st owner,Manual,15.5,29503,Banglore
+2020,Tata,Tata NEXON XZ PLUS (O) PETROL,46484,Petrol,1st owner,Manual,9.85,18747,Banglore
+2021,Mahindra,Mahindra XUV300 W8 (O) 1.5 DIESEL,38885,Diesel,2nd owner,Manual,10.45,19885,Banglore
+2013,Honda,Honda City 1.5L I-VTEC V MT,104013,Petrol,2nd owner,Manual,4.38,11532,Banglore
+2019,Maruti,Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,41774,Petrol,1st owner,Automatic,7.97,15578,Banglore
+2017,Maruti,Maruti Wagon R 1.0 VXI AMT,84182,Petrol,2nd owner,Manual,4.1,8018,Banglore
+2019,Maruti,Maruti New Wagon-R VXI 1.2 AMT,16416,Petrol,2nd owner,Manual,5.34,10440,Banglore
+2018,Hyundai,Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,31761,Petrol,1st owner,Automatic,5.26,10283,Banglore
+2021,Tata,Tata Tiago XZA PLUS DUAL TONE PETROL,20402,Petrol,1st owner,Manual,7.0,13685,Banglore
+2022,KIA,KIA SONET GTX PLUS 1.0 IMT,20927,Petrol,1st owner,Manual,11.4,21699,Banglore
+2019,Maruti,Maruti Swift ZXI AMT,34361,Petrol,2nd owner,Manual,6.59,12884,Banglore
+2018,Mahindra,Mahindra XUV500 W7 AT,67919,Diesel,1st owner,Automatic,11.83,22517,Banglore
+2016,Maruti,Maruti Celerio ZXI AMT (O),39987,Petrol,2nd owner,Manual,4.0,7820,Banglore
+2015,Maruti,Maruti Swift VXI,66341,Petrol,2nd owner,Manual,5.38,10527,Banglore
+2016,Hyundai,Hyundai Creta E PLUS 1.6 PETROL,54309,Petrol,1st owner,Manual,8.2,15608,Banglore
+2017,Tata,Tata Zest XT PETROL,53998,Petrol,1st owner,Manual,4.11,8035,Banglore
+2018,Hyundai,Hyundai Elite i20 ASTA 1.2 (O),81961,Petrol,1st owner,Manual,6.43,12571,Banglore
+2022,KIA,KIA CARENS LUXURY PLUS 1.4 PETROL 6 STR,20570,Petrol,2nd owner,Manual,15.19,28913,Banglore
+2023,Mahindra,Mahindra XUV300 W6 1.2 PETROL,10190,Petrol,1st owner,Manual,9.46,18006,Banglore
+2015,Maruti,Maruti Swift VXI,74945,Petrol,3rd owner,Manual,4.35,8504,Banglore
+2022,Maruti,Maruti Dzire VXI AMT,16023,Petrol,1st owner,Manual,7.36,14389,Banglore
+2019,Maruti,Maruti Swift ZXI AMT,21955,Petrol,1st owner,Manual,6.63,12958,Banglore
+2022,KIA,KIA SELTOS GTX PLUS 1.5 DIESEL AT,28193,Diesel,2nd owner,Automatic,17.24,32813,Banglore
+2023,Maruti,Maruti S PRESSO VXI PLUS (O) AMT,7443,Petrol,1st owner,Manual,6.07,11870,Banglore
+2020,KIA,KIA SONET GTX PLUS 1.0 DCT,54309,Petrol,1st owner,Automatic,9.91,18863,Banglore
+2014,Nissan,Nissan Terrano XL (D),96251,Diesel,2nd owner,Manual,5.21,13720,Banglore
+2013,Hyundai,Hyundai Eon ERA +,46840,Petrol,2nd owner,Manual,2.44,6425,Banglore
+2020,Maruti,Maruti Alto VXI,39858,Petrol,2nd owner,Manual,3.78,7390,Banglore
+2017,Renault,Renault Kwid RXT 0.8,77747,Petrol,2nd owner,Manual,2.98,5826,Banglore
+2019,Hyundai,Hyundai VENUE S 1.0 TURBO DCT,50055,Petrol,1st owner,Automatic,8.19,15589,Banglore
+2022,Tata,Tata NEXON XZ PLUS PETROL KAZIRANGA,66473,Petrol,2nd owner,Manual,10.2,19415,Banglore
+2020,Tata,Tata TIGOR XZA PLUS PETROL,80197,Petrol,1st owner,Manual,6.71,13118,Banglore
+2022,KIA,KIA CARENS LUXURY PLUS 1.4 PETROL 7 STR,34444,Petrol,1st owner,Manual,15.59,29674,Banglore
+2021,Hyundai,Hyundai Creta SX (O) 1.4 TURBO DCT,46713,Petrol,1st owner,Automatic,15.59,29677,Banglore
+2020,Maruti,Maruti IGNIS ZETA 1.2,91211,Petrol,1st owner,Manual,5.65,11046,Banglore
+2020,Maruti,Maruti Dzire ZXI Plus,38447,Petrol,2nd owner,Manual,7.46,14584,Banglore
+2020,Renault,Renault TRIBER RXZ,65036,Petrol,1st owner,Manual,6.09,11906,Banglore
+2021,Hyundai,Hyundai VENUE SX PLUS 1.0 TURBO DCT,42031,Petrol,1st owner,Automatic,9.55,18178,Banglore
+2017,Maruti,Maruti Baleno ALPHA PETROL 1.2,81122,Petrol,1st owner,Manual,6.08,11887,Banglore
+2022,Nissan,Nissan MAGNITE XV MT,66387,Petrol,2nd owner,Manual,6.79,13275,Banglore
+2018,Tata,Tata TIGOR XZ PLUS PETROL,79480,Petrol,1st owner,Manual,5.27,10304,Banglore
+2014,Mahindra,Mahindra XUV500 W8,91361,Diesel,1st owner,Manual,6.43,16933,Banglore
+2014,Hyundai,Hyundai Eon MAGNA +,68348,Petrol,2nd owner,Manual,2.57,5717,Banglore
+2023,Mahindra,Mahindra BOLERO NEO N10 R,31848,Diesel,1st owner,Manual,10.09,19205,Banglore
+2023,Tata,Tata NEXON XZ PLUS LUX SUNROOF DUAL TONE PETROL,12351,Petrol,1st owner,Manual,11.8,22460,Banglore
+2020,Maruti,Maruti IGNIS ZETA 1.2,27507,Petrol,1st owner,Manual,5.73,11202,Banglore
+2017,Maruti,Maruti Dzire ZXI PLUS,60486,Petrol,1st owner,Manual,6.05,11832,Banglore
+2017,Mahindra,Mahindra Kuv100 K6 6 STR,41560,Petrol,1st owner,Manual,4.26,8322,Banglore
+2019,Honda,Honda Jazz 1.2L I-VTEC VX,22811,Petrol,1st owner,Manual,6.11,11945,Banglore
+2021,Nissan,Nissan MAGNITE XL TURBO CVT,38777,Petrol,1st owner,Automatic,7.99,15615,Banglore
+2013,Maruti,Maruti Ritz VXI,41105,Petrol,1st owner,Manual,3.9,10270,Banglore
+2020,Mahindra,Mahindra XUV500 W9,78122,Diesel,2nd owner,Manual,13.73,26128,Banglore
+2015,Hyundai,Hyundai Elite i20 ASTA 1.4 CRDI,82289,Diesel,2nd owner,Manual,6.27,13947,Banglore
+2022,Hyundai,Hyundai NEW SANTRO MAGNA,19762,Petrol,2nd owner,Manual,4.86,9501,Banglore
+2022,Maruti,Maruti BREZZA ZXI AT SMART HYBRID DUAL TONE,12986,Petrol,1st owner,Automatic,12.13,23088,Banglore
+2020,KIA,KIA SONET GTX PLUS 1.0 IMT,47319,Petrol,1st owner,Manual,10.18,19372,Banglore
+2021,KIA,KIA SELTOS HTK PLUS 1.5,88671,Petrol,2nd owner,Manual,9.9,18844,Banglore
+2017,Hyundai,Hyundai i20 Active 1.4 SX,85460,Diesel,1st owner,Manual,7.11,13900,Banglore
+2015,Hyundai,Hyundai Eon ERA +,33365,Petrol,2nd owner,Manual,2.74,5357,Banglore
+2023,Mahindra,Mahindra Thar LX D 4*4 MT HT,21597,Diesel,1st owner,Manual,15.33,29179,Banglore
+2013,Hyundai,Hyundai i10 SPORTZ 1.2 AT,79194,Petrol,1st owner,Automatic,3.71,9770,Banglore
+2022,Hyundai,Hyundai VENUE SX PLUS 1.0 TURBO DCT,24313,Petrol,2nd owner,Automatic,10.6,20180,Banglore
+2017,Hyundai,Hyundai Grand i10 SPORTZ AT 1.2 KAPPA VTVT,67795,Petrol,1st owner,Automatic,5.32,10393,Banglore
+2014,Maruti,Maruti Celerio VXI AMT,50322,Petrol,1st owner,Manual,3.59,7986,Banglore
+2020,Renault,Renault Kwid RXT 1.0 AMT (O),18047,Petrol,2nd owner,Manual,4.4,8602,Banglore
+2022,Hyundai,Hyundai Creta SX (O) 1.5 DIESEL,41211,Diesel,2nd owner,Manual,16.29,31007,Banglore
+2021,Hyundai,Hyundai GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT DUAL TONE,29729,Petrol,1st owner,Automatic,6.52,12747,Banglore
+2015,Hyundai,Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,40677,Petrol,1st owner,Automatic,4.4,8601,Banglore
+2019,Ford,Ford FREESTYLE TITANIUM PLUS 1.5 DIESEL,25468,Diesel,1st owner,Manual,7.18,14037,Banglore
+2019,Maruti,Maruti Baleno ALPHA CVT PETROL 1.2,60551,Petrol,1st owner,Automatic,7.28,14233,Banglore
+2022,KIA,KIA CARENS PRESTIGE PLUS 1.4 PETROL 7 STR,43333,Petrol,1st owner,Manual,12.17,23170,Banglore
+2022,KIA,KIA SONET GTX PLUS 1.0 DCT,31548,Petrol,1st owner,Automatic,11.81,22479,Banglore
+2016,Hyundai,Hyundai Grand i10 ASTA (O) AT 1.2 KAPPA VTVT,32979,Petrol,1st owner,Automatic,5.26,10283,Banglore
+2017,Maruti,Maruti Ciaz ZXI+,42001,Petrol,2nd owner,Manual,6.49,12688,Banglore
+2016,Hyundai,Hyundai Xcent SX 1.2,54356,Petrol,1st owner,Manual,4.8,9379,Banglore
+2019,Hyundai,Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,46729,Petrol,2nd owner,Automatic,5.2,10166,Banglore
+2012,Maruti,Maruti Wagon R 1.0 VXI,73114,Petrol,2nd owner,Manual,2.73,9060,Banglore
+2019,KIA,KIA SELTOS GTX PLUS 1.4 PETROL,70595,Petrol,2nd owner,Manual,11.93,22708,Banglore
+2020,Tata,Tata ALTROZ XZ PETROL,17907,Petrol,2nd owner,Manual,6.7,13099,Banglore
+2014,Hyundai,Hyundai i20 SPORTZ 1.2,63495,Petrol,2nd owner,Manual,4.64,10321,Banglore
+2016,Hyundai,Hyundai Elite i20 SPORTZ 1.2,59509,Petrol,1st owner,Manual,5.86,11466,Banglore
+2019,Hyundai,Hyundai VENUE SX PLUS 1.0 TURBO DCT,64222,Petrol,2nd owner,Automatic,8.58,16331,Banglore
+2014,Honda,Honda City 1.5L I-VTEC SV,66048,Petrol,1st owner,Manual,5.2,11567,Banglore
+2022,Mahindra,Mahindra XUV300 W8 (O) 1.5 DIESEL,30092,Diesel,1st owner,Manual,12.27,23355,Banglore
+2021,Mahindra,Mahindra XUV300 W8 1.2 PETROL,34163,Petrol,2nd owner,Manual,8.9,16940,Banglore
+2019,Hyundai,Hyundai Elite i20 SPORTZ PLUS 1.2 CVT,6413,Petrol,1st owner,Automatic,7.3,14272,Banglore
+2015,Honda,Honda Jazz 1.2L I-VTEC V AT,55802,Petrol,1st owner,Automatic,5.0,9775,Banglore
+2019,MG,MG HECTOR SMART 1.5 DCT PETROL,38021,Petrol,1st owner,Automatic,13.52,25734,Banglore
+2016,Hyundai,Hyundai i10 SPORTZ 1.1,60237,Petrol,1st owner,Manual,3.9,7620,Banglore
+2019,Hyundai,Hyundai Verna 1.6 SX (O) CRDI MT,91434,Diesel,1st owner,Manual,9.59,18254,Banglore
+2015,Maruti,Maruti Wagon R 1.0 VXI,59996,Petrol,2nd owner,Manual,3.46,6764,Banglore
+2014,Hyundai,Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,36717,Petrol,1st owner,Automatic,4.05,9009,Banglore
+2016,Hyundai,Hyundai Eon ERA +,60944,Petrol,2nd owner,Manual,2.84,5556,Banglore
+2020,Renault,Renault Kwid RXT 1.0 (O),29742,Petrol,1st owner,Manual,4.36,8524,Banglore
+2021,Tata,Tata NEXON XZA PLUS (O) PETROL,41701,Petrol,1st owner,Manual,9.72,18501,Banglore
+2020,Hyundai,Hyundai AURA SX PLUS 1.2 AMT,6273,Petrol,1st owner,Manual,7.0,13685,Banglore
+2018,Hyundai,Hyundai Elite i20 ASTA 1.2 CVT,18600,Petrol,1st owner,Automatic,7.04,13763,Banglore
+2018,Mahindra,Mahindra XUV500 W10,50013,Diesel,2nd owner,Manual,12.64,24059,Banglore
+2018,Ford,Ford Ecosport TITANIUM 1.5L PETROL,69661,Petrol,1st owner,Manual,7.45,14568,Banglore
+2020,KIA,KIA SONET HTX PLUS 1.5,47174,Diesel,2nd owner,Manual,9.8,18653,Banglore
+2015,Honda,Honda City 1.5L I-VTEC VX CVT,72031,Petrol,1st owner,Automatic,6.1,11926,Banglore
+2018,Hyundai,Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,44614,Petrol,1st owner,Automatic,5.29,10342,Banglore
+2015,Hyundai,Hyundai Elite i20 SPORTZ 1.2,77355,Petrol,1st owner,Manual,5.42,10596,Banglore
+2013,Hyundai,Hyundai i10 SPORTZ 1.2,97144,Petrol,2nd owner,Manual,2.91,7663,Banglore
+2020,KIA,KIA SELTOS GTX AT 1.4 PETROL,29303,Petrol,1st owner,Automatic,12.98,24706,Banglore
+2019,Hyundai,Hyundai Creta SX AT 1.6 PETROL,29686,Petrol,1st owner,Automatic,11.5,21889,Banglore
+2019,Hyundai,Hyundai Elite i20 SPORTZ PLUS 1.2 CVT,45717,Petrol,1st owner,Automatic,7.12,13920,Banglore
+2021,Hyundai,Hyundai VENUE SX 1.0 TURBO,23592,Petrol,1st owner,Manual,9.2,17511,Banglore
+2019,MG,MG HECTOR SHARP 1.5 DCT PETROL,28869,Petrol,2nd owner,Automatic,12.93,24611,Banglore
+2015,Maruti,Maruti Celerio ZXI AMT,47926,Petrol,1st owner,Manual,4.03,7879,Banglore
+2015,Maruti,Maruti Celerio VXI,57038,Petrol,1st owner,Manual,3.66,7163,Banglore
+2017,Mahindra,Mahindra KUV 100 NXT K2 P 6 STR,28670,Petrol,1st owner,Manual,3.85,7521,Banglore
+2021,Renault,Renault TRIBER RXT,44467,Petrol,1st owner,Manual,6.26,12244,Banglore
+2019,Hyundai,Hyundai Grand i10 SPORTZ AT 1.2 KAPPA VTVT,86719,Petrol,1st owner,Automatic,5.6,10948,Banglore
+2023,Tata,Tata NEXON CREATIVE PLUS S 1.2 REVOTRON 6 AMT DT,14303,Petrol,1st owner,Manual,12.72,24215,Banglore
+2016,Volkswagen,Volkswagen Polo HIGHLINE1.2L,75411,Petrol,2nd owner,Manual,5.69,11123,Banglore
+2020,Hyundai,Hyundai Verna SX 1.5 VTVT,25740,Petrol,1st owner,Automatic,9.62,18311,Banglore
+2015,Maruti,Maruti Celerio VXI,97144,Petrol,1st owner,Manual,3.48,6799,Banglore
+2022,Renault,Renault Kwid RXL 1.0 (O),15130,Petrol,1st owner,Manual,4.58,8956,Banglore
+2020,KIA,KIA SELTOS HTX 1.5 PETROL,39332,Petrol,1st owner,Manual,11.28,21470,Banglore
+2022,KIA,KIA CARENS PRESTIGE PLUS 1.4 PETROL 7 STR,12332,Petrol,1st owner,Manual,13.85,26362,Banglore
+2017,Hyundai,Hyundai Elite i20 ASTA 1.2,52439,Petrol,2nd owner,Manual,6.1,11926,Banglore
+2022,KIA,KIA SELTOS GTX PLUS DCT 1.4 PETROL,25448,Petrol,1st owner,Automatic,16.46,31330,Banglore
+2023,Tata,Tata NEXON FEARLESS AMT DUAL TONE 1.5 DIESEL,16052,Diesel,1st owner,Manual,13.92,26499,Banglore
+2020,Mahindra,Mahindra XUV500 W7,51804,Diesel,1st owner,Manual,12.89,24535,Banglore
+2017,Mahindra,Mahindra XUV500 W6,67111,Diesel,1st owner,Manual,10.31,19624,Banglore
+2012,Maruti,Maruti Ertiga ZDI,78546,Diesel,1st owner,Manual,5.74,27020,Banglore
+2021,Hyundai,Hyundai NEW I20 SPORTZ 1.0T GDI IMT,28441,Petrol,2nd owner,Manual,7.3,14277,Banglore
+2016,Maruti,Maruti Swift Dzire VXI,54421,Petrol,1st owner,Manual,5.35,10464,Banglore
+2017,Nissan,Nissan Micra XV CVT,49533,Petrol,1st owner,Automatic,4.81,9398,Banglore
+2021,Tata,Tata TIGOR XM PETROL,42504,Petrol,2nd owner,Manual,5.5,10753,Banglore
+2012,Honda,Honda Brio S MT,81976,Petrol,2nd owner,Manual,2.68,8890,Banglore
+2019,Maruti,Maruti Baleno ALPHA PETROL 1.2,53180,Petrol,1st owner,Manual,6.61,12923,Banglore
+2021,Maruti,Maruti Baleno DELTA PETROL 1.2,8174,Petrol,1st owner,Manual,6.94,13568,Banglore
+2021,Mahindra,Mahindra Thar LX PETROL HT 4WD AT,23204,Petrol,2nd owner,Automatic,14.13,26895,Banglore
+2018,Honda,Honda City 1.5L I-VTEC ZX CVT,98101,Petrol,2nd owner,Automatic,8.88,16902,Banglore
+2022,Tata,Tata NEXON XZA PLUS (L),8140,Petrol,1st owner,Manual,11.72,22308,Banglore
+2019,Hyundai,Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,22795,Petrol,1st owner,Automatic,5.65,11049,Banglore
+2019,Renault,Renault Kwid RXT 1.0 AMT (O),17445,Petrol,1st owner,Manual,4.06,7933,Banglore
+2021,Toyota,Toyota Glanza G CVT,16893,Petrol,1st owner,Automatic,7.86,15366,Banglore
+2018,Honda,Honda City 1.5L I-VTEC ZX CVT,24098,Petrol,2nd owner,Automatic,9.7,18463,Banglore
+2014,Volkswagen,Volkswagen Polo HIGHLINE1.5L,42971,Diesel,1st owner,Manual,4.9,12904,Banglore
+2020,Toyota,Toyota Glanza V,38046,Petrol,1st owner,Manual,7.45,14571,Banglore
+2021,Maruti,Maruti XL6 ALPHA AT,40099,Petrol,1st owner,Automatic,10.64,20252,Banglore
+2017,Hyundai,Hyundai Grand i10 SPORTZ (O) AT 1.2 KAPPA VTVT,81449,Petrol,1st owner,Automatic,5.2,10175,Banglore
+2020,KIA,KIA SELTOS HTX 1.5 PETROL,39444,Petrol,2nd owner,Manual,10.62,20214,Banglore
+2014,Maruti,Maruti Ertiga VDI,90881,Diesel,1st owner,Manual,6.72,17696,Banglore
+2021,KIA,KIA SONET GTX PLUS 1.5,29526,Diesel,1st owner,Manual,11.25,21413,Banglore
+2018,Hyundai,Hyundai Creta E PLUS 1.6 PETROL,84832,Petrol,1st owner,Manual,7.89,15425,Banglore
+2015,Ford,Ford Ecosport TITANIUM 1.5L PETROL AT,80205,Petrol,2nd owner,Automatic,5.7,11144,Banglore
+2017,Renault,Renault Kwid RXT 1.0 AMT (O),70594,Petrol,2nd owner,Manual,3.12,6100,Banglore
+2019,Honda,Honda City 1.5L I-DTEC VX,24933,Diesel,2nd owner,Manual,10.44,19875,Banglore
+2013,Maruti,Maruti Alto 800 VXI,63551,Petrol,2nd owner,Manual,2.42,6366,Banglore
+2018,Tata,Tata NEXON XZA PLUS DIESEL,27620,Diesel,1st owner,Manual,9.47,18025,Banglore
+2021,Tata,Tata ALTROZ XT PETROL,30516,Petrol,1st owner,Manual,6.93,13549,Banglore
+2020,Renault,Renault Kwid RXL,26869,Petrol,1st owner,Manual,3.9,7625,Banglore
+2018,Hyundai,Hyundai Verna 1.6 VTVT SX (O) AT,62880,Petrol,1st owner,Automatic,9.26,17626,Banglore
+2021,Renault,Renault Duster RXZ 1.3 TURBO PETROL MT,30344,Petrol,2nd owner,Manual,9.27,17645,Banglore
+2019,Honda,Honda Amaze 1.2L I-VTEC VX,79736,Petrol,1st owner,Manual,6.6,12903,Banglore
+2016,Honda,Honda BR-V 1.5L I-VTEC V CVT,29820,Petrol,1st owner,Automatic,8.2,15617,Banglore
+2015,Hyundai,Hyundai i20 Active 1.4 SX,80576,Diesel,2nd owner,Manual,5.1,11338,Banglore
+2018,Datsun,Datsun Go T,15299,Petrol,2nd owner,Manual,3.51,6862,Banglore
+2020,Renault,Renault TRIBER RXT,25078,Petrol,1st owner,Manual,6.08,11887,Banglore
+2017,Hyundai,Hyundai Creta SX PLUS 1.6 PETROL,42923,Petrol,2nd owner,Manual,8.6,16369,Banglore
+2022,KIA,KIA SONET HTX 1.5 AT,12081,Diesel,2nd owner,Automatic,11.79,22441,Banglore
+2021,Hyundai,Hyundai VENUE S 1.0 TURBO IMT,13767,Petrol,1st owner,Manual,9.0,17131,Banglore
+2016,Maruti,Maruti Ciaz VXI+,54057,Petrol,2nd owner,Manual,4.99,9756,Banglore
+2014,Hyundai,Hyundai Xcent S 1.2,80130,Petrol,1st owner,Manual,3.92,8720,Banglore
+2021,Maruti,Maruti S PRESSO VXI (O) AMT,15549,Petrol,1st owner,Manual,4.7,9189,Banglore
+2016,Honda,Honda City 1.5L I-VTEC VX CVT,59928,Petrol,1st owner,Automatic,7.15,13977,Banglore
+2021,Maruti,Maruti Alto VXI PLUS,54252,Petrol,1st owner,Manual,3.83,7480,Banglore
+2022,Hyundai,Hyundai Creta EX 1.5 DIESEL,29394,Diesel,1st owner,Manual,12.44,23678,Banglore
+2020,Renault,Renault Kwid RXT 1.0 AMT (O),17254,Petrol,1st owner,Manual,4.57,8934,Banglore
+2013,Maruti,Maruti Swift ZXI,76650,Petrol,1st owner,Manual,4.63,12193,Banglore
+2023,Tata,Tata NEXON XZA PLUS DIESEL (L),25005,Diesel,1st owner,Manual,12.97,24687,Banglore
+2013,Hyundai,Hyundai i10 SPORTZ 1.2 AT,70290,Petrol,1st owner,Automatic,3.83,10078,Banglore
+2019,Hyundai,Hyundai VENUE SX 1.0 TURBO,46218,Petrol,1st owner,Manual,8.11,15431,Banglore
+2020,Hyundai,Hyundai GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,53700,Petrol,1st owner,Manual,6.12,11965,Banglore
+2017,Hyundai,Hyundai Creta SX PLUS AT 1.6 DIESEL,95391,Diesel,2nd owner,Automatic,9.5,18082,Banglore
+2018,Renault,Renault Kwid CLIMBER 1.0 AMT,33992,Petrol,1st owner,Manual,4.23,8270,Banglore
+2021,Renault,Renault Kwid RXT 1.0 (O),44790,Petrol,1st owner,Manual,4.59,8974,Banglore
+2022,Hyundai,Hyundai VENUE SX 1.0 TURBO IMT,27660,Petrol,1st owner,Manual,9.12,17359,Banglore
+2018,Hyundai,Hyundai Grand i10 SPORTZ AT 1.2 KAPPA VTVT,32063,Petrol,1st owner,Automatic,5.95,11632,Banglore
+2018,Maruti,Maruti Wagon R 1.0 VXI,37535,Petrol,2nd owner,Manual,4.27,8348,Banglore
+2021,Hyundai,Hyundai GRAND I10 NIOS ERA 1.2 KAPPA VTVT,44329,Petrol,1st owner,Automatic,5.35,10459,Banglore
+2017,Renault,Renault Kwid RXT 1.0,54263,Petrol,2nd owner,Manual,3.31,6471,Banglore
+2014,Hyundai,Hyundai Verna FLUIDIC 1.6 CRDI SX,92929,Diesel,1st owner,Manual,5.68,14958,Banglore
+2015,Hyundai,Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,59952,Petrol,1st owner,Automatic,4.47,8745,Banglore
+2020,Maruti,Maruti S PRESSO VXI PLUS AMT,20255,Petrol,1st owner,Manual,4.65,9087,Banglore
+2020,Renault,Renault Kwid RXT 1.0 AMT (O),25446,Petrol,1st owner,Manual,4.6,8993,Banglore
+2018,Honda,Honda City 1.5L I-VTE V CVT,75347,Petrol,1st owner,Automatic,7.31,14291,Banglore
+2022,KIA,KIA CARENS LUXURY PLUS 1.4 PETROL DCT 6 STR,21693,Petrol,1st owner,Automatic,16.31,31045,Banglore
+2017,Volkswagen,Volkswagen Ameo HIGHLINE1.2L PLUS 16 ALLOY,84132,Petrol,1st owner,Manual,5.19,10147,Banglore
+2014,Honda,Honda Brio S MT,60087,Petrol,1st owner,Manual,3.66,8141,Banglore
+2019,Renault,Renault Kwid RXT 1.0 AMT (O),11486,Petrol,1st owner,Manual,4.46,8725,Banglore
+2013,Hyundai,Hyundai i10 SPORTZ 1.2,67134,Petrol,2nd owner,Manual,3.27,8617,Banglore
+2013,Hyundai,Hyundai i20 SPORTZ 1.2,24343,Petrol,1st owner,Manual,4.57,12035,Banglore
+2017,Maruti,Maruti IGNIS DELTA 1.2 AMT,61328,Petrol,2nd owner,Manual,4.56,8908,Banglore
+2022,Tata,Tata NEXON XM PETROL,32231,Petrol,1st owner,Manual,8.12,15456,Banglore
+2017,Hyundai,Hyundai Creta SX PLUS 1.6 PETROL,54360,Petrol,1st owner,Manual,8.6,16369,Banglore
+2019,KIA,KIA SELTOS GTX PLUS DCT 1.4 PETROL,53784,Petrol,1st owner,Automatic,13.1,24935,Banglore
+2019,KIA,KIA SELTOS GTX PLUS 1.4 PETROL,92225,Petrol,2nd owner,Manual,10.86,20671,Banglore
+2014,Maruti,Maruti Celerio VXI AMT,54591,Petrol,2nd owner,Manual,3.53,7852,Banglore
+2017,Hyundai,Hyundai Grand i10 SPORTZ (O) 1.2 KAPPA VTVT,59356,Petrol,1st owner,Automatic,4.95,9682,Banglore
+2019,Renault,Renault Duster RXS CVT,45610,Petrol,1st owner,Automatic,7.39,14446,Banglore
+2022,Tata,Tata PUNCH CREATIVE AMT,32563,Petrol,1st owner,Manual,8.24,15684,Banglore
+2023,Honda,Honda City 1.5L I-VTEC ZX,18019,Petrol,1st owner,Manual,12.94,24630,Banglore
+2015,Hyundai,Hyundai Elite i20 ASTA 1.2,44627,Petrol,1st owner,Manual,5.81,11356,Banglore
+2022,Nissan,Nissan MAGNITE XV PREMIUM,10753,Petrol,1st owner,Manual,7.55,14766,Banglore
+2020,Tata,Tata Tiago XZ PETROL,32292,Petrol,1st owner,Manual,5.72,11186,Banglore
+2021,Tata,Tata NEXON XZA PLUS (O) DIESEL,55844,Diesel,1st owner,Manual,11.05,21033,Banglore
+2022,KIA,KIA SONET GTX PLUS 1.0 IMT,21935,Petrol,1st owner,Manual,11.44,21775,Banglore
+2021,Tata,Tata Tiago XT PETROL,34890,Petrol,1st owner,Manual,5.47,10694,Banglore
+2016,Hyundai,Hyundai i20 Active 1.2 SX,87853,Petrol,2nd owner,Manual,5.38,10514,Banglore
+2014,Maruti,Maruti Swift Dzire VXI,71665,Petrol,1st owner,Manual,4.66,10360,Banglore
+2018,Tata,Tata NEXON XZ PLUS PETROL,54114,Petrol,1st owner,Manual,7.46,14575,Banglore
+2018,Tata,Tata NEXON XE DIESEL,81850,Diesel,2nd owner,Manual,5.87,11476,Banglore
+2019,Maruti,Maruti Dzire VXI,82556,Petrol,1st owner,Manual,5.55,10850,Banglore
+2018,Tata,Tata NEXON XMA PETROL,22239,Petrol,1st owner,Manual,7.35,14375,Banglore
+2019,Hyundai,Hyundai NEW SANTRO SPORTZ AMT,22824,Petrol,1st owner,Manual,4.88,9542,Banglore
+2017,Renault,Renault Kwid CLIMBER 1.0 AMT,39153,Petrol,1st owner,Manual,3.94,7703,Banglore
+2013,Hyundai,Hyundai i20 MAGNA 1.2,53017,Petrol,1st owner,Manual,3.99,10502,Banglore
+2015,Hyundai,Hyundai Xcent S 1.2,66421,Petrol,2nd owner,Manual,3.99,7807,Banglore
+2020,Renault,Renault Kwid RXT 1.0 AMT (O),34379,Petrol,1st owner,Manual,4.62,9027,Banglore
+2016,Renault,Renault Duster 110 PS RXL 4X2 AMT,47762,Diesel,2nd owner,Manual,7.12,13922,Banglore
+2017,Tata,Tata TIGOR XZ (O) PETROL,59454,Petrol,1st owner,Manual,4.66,9106,Banglore
+2022,KIA,KIA SELTOS GTX PLUS 1.4,27106,Petrol,1st owner,Manual,14.49,27584,Banglore
+2021,Tata,Tata Tiago XZA PLUS PETROL,30711,Petrol,1st owner,Manual,6.38,12473,Banglore
+2019,Renault,Renault Kwid CLIMBER 1.0 AMT,78258,Petrol,1st owner,Manual,4.13,8082,Banglore
+2022,Maruti,Maruti Baleno ALPHA 1.2 AGS,38752,Petrol,1st owner,Manual,8.96,17047,Banglore
+2020,Maruti,Maruti Baleno DELTA PETROL 1.2,40151,Petrol,2nd owner,Manual,6.47,12649,Banglore
+2013,Hyundai,Hyundai Verna FLUIDIC 1.6 VTVT SX,81696,Petrol,2nd owner,Automatic,4.65,12245,Banglore
+2014,Renault,Renault Duster 85 PS RXL DIESEL,97772,Diesel,2nd owner,Manual,5.49,14457,Banglore
+2018,Maruti,Maruti Vitara Brezza ZDI PLUS AT DUAL TONE,28722,Diesel,2nd owner,Automatic,8.31,15817,Banglore
+2015,Hyundai,Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,46529,Petrol,1st owner,Automatic,4.1,8016,Banglore
+2017,Renault,Renault Duster RXL PETROL,65693,Petrol,2nd owner,Manual,6.49,12688,Banglore
+2020,Renault,Renault Kwid CLIMBER 1.0 (O),33317,Petrol,1st owner,Manual,4.39,8583,Banglore
+2017,Maruti,Maruti Celerio ZXI AMT (O),46508,Petrol,1st owner,Manual,4.61,9013,Banglore
+2017,Maruti,Maruti Baleno ZETA PETROL 1.2,97769,Petrol,1st owner,Manual,5.91,11554,Banglore
+2016,Honda,Honda Jazz 1.2L I-VTEC VX,90248,Petrol,1st owner,Manual,5.01,9798,Banglore
+2018,Honda,Honda City 1.5L I-VTEC V MT,74350,Petrol,1st owner,Manual,7.6,14862,Banglore
+2015,Hyundai,Hyundai Grand i10 ASTA AT 1.2 KAPPA VTVT,71048,Petrol,2nd owner,Automatic,4.41,8622,Banglore
+2020,Maruti,Maruti Swift ZXI PLUS AMT,48835,Petrol,1st owner,Manual,7.28,14233,Banglore
+2022,MG,MG HECTOR PLUS SHARP 1.5 PETROL TURBO CVT 6-STR,11032,Petrol,1st owner,Automatic,18.96,36089,Banglore
+2020,Hyundai,Hyundai VENUE SX 1.0 TURBO,26837,Petrol,1st owner,Manual,8.8,16750,Banglore
+2020,MG,MG HECTOR SHARP HYBRID 1.5 PETROL,25226,Petrol,1st owner,Manual,13.59,25867,Banglore
+2018,Honda,Honda Jazz 1.2L I-VTEC VX,24835,Petrol,2nd owner,Manual,5.87,11476,Banglore
+2019,MG,MG HECTOR SHARP 1.5 DCT PETROL,29272,Petrol,1st owner,Automatic,13.39,25491,Banglore
+2021,Maruti,Maruti Swift ZXI,29062,Petrol,1st owner,Manual,7.1,13883,Banglore
+2020,KIA,KIA SELTOS GTX 1.4 PETROL,64978,Petrol,1st owner,Manual,12.35,23507,Banglore
+2020,Maruti,Maruti Swift ZXI PLUS AMT,48021,Petrol,1st owner,Manual,7.22,14115,Banglore
+2016,Mahindra,Mahindra Kuv100 K8 6 STR,65886,Petrol,2nd owner,Manual,3.68,7194,Banglore
+2021,Renault,Renault Kwid CLIMBER 1.0 AMT (O),12555,Petrol,1st owner,Manual,5.04,9853,Banglore
+2013,Maruti,Maruti Wagon R 1.0 VXI,90334,Petrol,1st owner,Manual,2.97,7821,Banglore
+2019,MG,MG HECTOR SHARP 1.5 DCT PETROL,63876,Petrol,1st owner,Automatic,13.4,25506,Banglore
+2019,Mahindra,Mahindra XUV300 W6 1.2 PETROL,34355,Petrol,1st owner,Manual,7.64,14936,Banglore
+2021,Maruti,Maruti Baleno ZETA CVT PETROL 1.2,42378,Petrol,1st owner,Automatic,7.73,15112,Banglore
+2013,Honda,Honda City 1.5L I-VTEC V MT,60047,Petrol,1st owner,Manual,4.72,12433,Banglore
+2020,Datsun,Datsun Redi Go T(O) 1.0,37669,Petrol,1st owner,Manual,3.69,7223,Banglore
+2017,Maruti,Maruti Alto K10 VXI (O) AMT,16901,Petrol,1st owner,Manual,3.92,7659,Banglore
+2016,Ford,Ford Ecosport TITANIUM 1.5L PETROL AT,47345,Petrol,2nd owner,Automatic,6.29,12297,Banglore
+2017,Maruti,Maruti Celerio ZXI,29775,Petrol,1st owner,Manual,4.36,8524,Banglore
+2016,Hyundai,Hyundai Eon ERA +,41910,Petrol,2nd owner,Manual,2.84,5556,Banglore
+2022,Hyundai,Hyundai VENUE S+ 1.2,33137,Petrol,1st owner,Manual,8.36,15912,Banglore
+2019,Tata,Tata NEXON XZA PLUS PETROL,15560,Petrol,1st owner,Manual,8.0,15227,Banglore
+2018,Maruti,Maruti Wagon R 1.0 VXI,68401,Petrol,1st owner,Manual,4.04,7895,Banglore
+2019,KIA,KIA SELTOS HTK PLUS 1.5,32541,Petrol,1st owner,Manual,10.0,19034,Banglore
+2020,Mahindra,Mahindra XUV300 W6 1.2 PETROL,82299,Petrol,1st owner,Manual,7.7,15054,Banglore
+2021,MG,MG HECTOR SHARP 1.5 PETROL CVT,44009,Petrol,1st owner,Automatic,14.88,28323,Banglore
+2017,Renault,Renault Kwid RXT 1.0 AMT,28809,Petrol,1st owner,Manual,3.74,7312,Banglore
+2013,Volkswagen,Volkswagen Vento HIGHLINE 1.6 MPI,99112,Petrol,2nd owner,Manual,3.78,9954,Banglore
+2019,Honda,Honda BR-V 1.5L I-VTEC S,26025,Petrol,1st owner,Manual,8.18,15570,Banglore
+2014,Maruti,Maruti Celerio VXI AMT,51903,Petrol,2nd owner,Manual,3.53,7852,Banglore
+2014,Hyundai,Hyundai Grand i10 ASTA AT 1.2 KAPPA VTVT,29783,Petrol,2nd owner,Automatic,4.39,9761,Banglore
+2013,Maruti,Maruti Swift Dzire VXI,31820,Petrol,1st owner,Manual,4.5,11850,Banglore
+2020,Hyundai,Hyundai GRAND I10 NIOS SPORTZ 1.0 TURBO GDI,50669,Petrol,1st owner,Manual,6.57,12844,Banglore
+2018,Honda,Honda City 1.5L I-VTE V CVT,22413,Petrol,2nd owner,Automatic,7.96,15562,Banglore
+2014,Maruti,Maruti Alto 800 LXI,66657,Petrol,2nd owner,Manual,2.55,5672,Banglore
+2022,Mahindra,Mahindra Thar LX D 4*4 MT HT,13896,Diesel,2nd owner,Manual,15.63,29750,Banglore
+2019,Maruti,Maruti Swift ZXI AMT,30174,Petrol,1st owner,Manual,6.58,12859,Banglore
+2021,Ford,Ford Ecosport TITANUIM + SE 1.5L PETROL,18425,Petrol,1st owner,Manual,9.68,18425,Banglore
+2018,Tata,Tata NEXON XZ PLUS PETROL DUAL TONE,71477,Petrol,1st owner,Manual,7.94,15526,Banglore
+2019,Tata,Tata TIGOR XZA PLUS PETROL,16124,Petrol,1st owner,Manual,6.34,12395,Banglore
+2014,Maruti,Maruti Alto 800 LXI,32526,Petrol,2nd owner,Manual,2.66,5917,Banglore
+2018,Honda,Honda City 1.5L I-VTEC V MT,39728,Petrol,1st owner,Manual,7.86,15366,Banglore
+2019,Mahindra,Mahindra XUV500 W11 AT,68709,Diesel,1st owner,Automatic,15.26,29046,Banglore
+2015,Hyundai,Hyundai Eon ERA +,75128,Petrol,1st owner,Manual,2.89,5641,Banglore
+2020,Maruti,Maruti Celerio ZXI AMT,20548,Petrol,1st owner,Manual,5.33,10420,Banglore
+2017,Maruti,Maruti Alto K10 VXI,67737,Petrol,2nd owner,Manual,3.4,6647,Banglore
+2022,Honda,Honda City 1.5L I-VTEC VX,13439,Petrol,1st owner,Manual,11.34,21592,Banglore
+2021,KIA,KIA SELTOS HTX 1.5 CVT PETROL,44608,Petrol,1st owner,Automatic,13.69,26058,Banglore
+2014,Maruti,Maruti Swift ZXI,91854,Petrol,1st owner,Manual,4.53,10077,Banglore
+2017,Maruti,Maruti Celerio VXI AMT (O),74970,Petrol,1st owner,Manual,4.42,8641,Banglore
+2020,MG,MG HECTOR PLUS SHARP 1.5 PETROL TURBO DCT 6-STR,59362,Petrol,2nd owner,Automatic,14.51,27618,Banglore
+2021,Hyundai,Hyundai NEW I20 SPORTZ 1.2 MT,22394,Petrol,1st owner,Manual,7.72,15084,Banglore
+2018,Maruti,Maruti Baleno ALPHA PETROL 1.2,55113,Petrol,1st owner,Manual,6.33,12375,Banglore
+2015,Maruti,Maruti Wagon R 1.0 VXI,24867,Petrol,1st owner,Manual,3.92,7664,Banglore
+2021,Tata,Tata NEXON XZA PLUS (O) DIESEL,56973,Diesel,1st owner,Manual,11.34,21576,Banglore
+2017,Maruti,Maruti Ertiga VXI AT,83605,Petrol,2nd owner,Automatic,6.94,13568,Banglore
+2014,Maruti,Maruti Celerio VXI AMT,36353,Petrol,2nd owner,Manual,3.52,7830,Banglore
+2021,Hyundai,Hyundai VENUE SX 1.0 (O) TURBO IMT,35543,Petrol,1st owner,Manual,9.6,18273,Banglore
+2015,Hyundai,Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,53944,Petrol,1st owner,Automatic,4.23,8270,Banglore
+2022,Mahindra,Mahindra XUV700 AX 7 P MT 7 STR,16062,Petrol,1st owner,Manual,19.7,37505,Banglore
+2013,Honda,Honda Brio S MT,60903,Petrol,1st owner,Manual,3.23,8506,Banglore
+2020,Renault,Renault Kwid RXT 0.8,22414,Petrol,1st owner,Manual,4.13,8074,Banglore
+2022,KIA,KIA CARENS PRESTIGE 1.5 DIESEL 7 STR,37095,Diesel,1st owner,Manual,12.23,23279,Banglore
+2022,Mahindra,Mahindra XUV700 AX 5 P MT 7 STR,40720,Petrol,1st owner,Manual,16.81,31996,Banglore
+2017,Maruti,Maruti Swift LXI (O),30858,Petrol,2nd owner,Manual,4.72,9228,Banglore
+2017,Hyundai,Hyundai Grand i10 SPORTZ AT 1.2 KAPPA VTVT,62172,Petrol,2nd owner,Automatic,5.16,10093,Banglore
+2014,Hyundai,Hyundai Grand i10 ASTA (O) 1.2 KAPPA VTVT,44008,Petrol,1st owner,Automatic,4.5,10010,Banglore
+2018,Ford,Ford Ecosport AMBIENTE 1.5L PETROL,38616,Petrol,2nd owner,Manual,6.43,12571,Banglore
+2019,Maruti,Maruti Baleno ALPHA CVT PETROL 1.2,35411,Petrol,1st owner,Automatic,7.69,15034,Banglore
+2016,Volkswagen,Volkswagen Polo GT TSI AT,84773,Petrol,1st owner,Automatic,6.78,13255,Banglore
+2017,Skoda,Skoda Rapid AMBITION 1.6 MPI MT,77160,Petrol,1st owner,Manual,6.82,13336,Banglore
+2014,Volkswagen,Volkswagen Vento HIGHLINE PETROL AT,73260,Petrol,1st owner,Automatic,5.26,11701,Banglore
+2020,MG,MG HECTOR SHARP HYBRID 1.5 PETROL,38996,Petrol,1st owner,Manual,13.17,25068,Banglore
+2023,Hyundai,Hyundai Creta SX 1.5 PETROL ADVENTURE EDITION,8601,Petrol,1st owner,Manual,15.39,29293,Banglore
+2017,Renault,Renault Kwid RXT 1.0,30084,Petrol,2nd owner,Manual,3.4,6649,Banglore
+2019,Mahindra,Mahindra XUV300 W8 1.2 PETROL,14993,Petrol,1st owner,Manual,8.83,16807,Banglore
+2022,Hyundai,Hyundai VENUE SX PLUS 1.0 TURBO DCT,18866,Petrol,1st owner,Automatic,10.55,20081,Banglore
+2020,Hyundai,Hyundai Creta SX (O) 1.4 TURBO DCT,46941,Petrol,2nd owner,Automatic,13.86,26381,Banglore
+2015,Hyundai,Hyundai Grand i10 ASTA AT 1.2 KAPPA VTVT,72134,Petrol,1st owner,Automatic,4.5,8798,Banglore
+2021,Mahindra,Mahindra XUV300 W8 1.2 PETROL,19725,Petrol,1st owner,Manual,9.46,18006,Banglore
+2015,Maruti,Maruti Alto K10 VXI,83697,Petrol,2nd owner,Manual,2.92,5709,Banglore
+2017,Ford,Ford Ecosport TITANIUM 1.5L DIESEL,49262,Diesel,2nd owner,Manual,6.83,13353,Banglore
+2015,Honda,Honda City 1.5L I-VTEC SV CVT,64765,Petrol,1st owner,Automatic,5.96,11657,Banglore
+2022,Maruti,Maruti Ciaz S 1.5 MT PETROL,23745,Petrol,1st owner,Manual,9.84,18730,Banglore
+2014,Hyundai,Hyundai i20 SPORTZ 1.2,40108,Petrol,2nd owner,Manual,4.44,9877,Banglore
+2020,Hyundai,Hyundai Elite i20 SPORTZ PLUS 1.2,29867,Petrol,1st owner,Manual,7.17,14016,Banglore
+2018,Renault,Renault Kwid CLIMBER 1.0 AMT,61430,Petrol,1st owner,Manual,3.98,7781,Banglore
+2015,Maruti,Maruti Alto K10 VXI,63140,Petrol,1st owner,Manual,2.98,5826,Banglore
+2016,Maruti,Maruti Wagon R 1.0 VXI,71410,Petrol,2nd owner,Manual,3.9,7625,Banglore
+2014,Ford,Ford Ecosport TITANIUM 1.0L ECOBOOST,88159,Petrol,2nd owner,Manual,4.76,10588,Banglore
+2014,Honda,Honda Brio S MT,49345,Petrol,2nd owner,Manual,3.59,7986,Banglore
+2020,Ford,Ford Ecosport TREND 1.5L PETROL,18749,Petrol,1st owner,Manual,8.18,15562,Banglore
+2016,Hyundai,Hyundai Grand i10 ASTA (O) 1.2 KAPPA VTVT,64223,Petrol,2nd owner,Automatic,4.69,9172,Banglore
+2022,Mahindra,Mahindra XUV300 W4 1.2 PETROL,17392,Petrol,1st owner,Manual,8.04,15303,Banglore
+2017,Maruti,Maruti Baleno ZETA PETROL 1.2,48589,Petrol,1st owner,Manual,5.83,11391,Banglore
+2018,Hyundai,Hyundai Eon MAGNA +,42928,Petrol,1st owner,Manual,3.74,7312,Banglore
+2020,Hyundai,Hyundai Creta SX 1.5 PETROL,74138,Petrol,2nd owner,Manual,11.28,21470,Banglore
+2017,Maruti,Maruti Wagon R 1.0 VXI+ AMT,52733,Petrol,1st owner,Manual,4.44,8680,Banglore
+2019,Honda,Honda Amaze 1.5L I-DTEC S,66131,Diesel,1st owner,Manual,6.44,12588,Banglore
+2014,Maruti,Maruti Swift VXI,76708,Petrol,1st owner,Manual,4.45,9899,Banglore
+2022,Tata,Tata PUNCH CREATIVE 1.2 MT KAZIRANGA EDITION,15749,Petrol,1st owner,Manual,7.91,15464,Banglore
+2017,Hyundai,Hyundai Verna 1.6 VTVT SX,61978,Petrol,2nd owner,Automatic,6.8,13294,Banglore
+2021,Honda,Honda City 1.5L I-VTEC V MT 5TH GEN,39793,Petrol,1st owner,Manual,9.86,18771,Banglore
+2019,Tata,Tata TIGOR XZA PLUS PETROL,73118,Petrol,2nd owner,Manual,5.55,10850,Banglore
+2019,Maruti,Maruti Baleno DELTA CVT PETROL 1.2,34046,Petrol,1st owner,Automatic,6.94,13568,Banglore
+2021,Renault,Renault Kwid RXT 1.0 (O),23472,Petrol,1st owner,Manual,4.54,8876,Banglore
+2018,Maruti,Maruti Alto 800 VXI,77880,Petrol,1st owner,Manual,3.18,6217,Banglore
+2017,Hyundai,Hyundai Elite i20 ASTA 1.2 (O),22442,Petrol,2nd owner,Manual,6.4,12512,Banglore
+2021,Maruti,Maruti Swift ZXI PLUS,14714,Petrol,2nd owner,Manual,7.48,14624,Banglore
+2020,Renault,Renault TRIBER RXZ AMT,21789,Petrol,1st owner,Manual,6.5,12708,Banglore
+2014,Hyundai,Hyundai Grand i10 MAGNA 1.2 KAPPA VTVT,54756,Petrol,1st owner,Automatic,3.99,8876,Banglore
+2021,KIA,KIA SONET GTX PLUS 1.0 DCT,11280,Petrol,1st owner,Automatic,11.24,21399,Banglore
+2016,Hyundai,Hyundai Grand i10 ASTA (O) 1.2 KAPPA VTVT,47053,Petrol,1st owner,Automatic,4.85,9482,Banglore
+2017,Mahindra,Mahindra XUV500 W6,90847,Diesel,2nd owner,Manual,9.0,17131,Banglore
+2023,Mahindra,Mahindra XUV300 W8 1.5 DIESEL,16454,Diesel,1st owner,Manual,12.56,23907,Banglore
+2020,MG,MG HECTOR SHARP 1.5 DCT PETROL,39875,Petrol,1st owner,Automatic,13.62,25924,Banglore
+2020,Maruti,Maruti S PRESSO VXI PLUS AMT,37330,Petrol,1st owner,Manual,4.83,9434,Banglore
+2018,Hyundai,Hyundai NEW SANTRO SPORTZ AMT,29809,Petrol,1st owner,Manual,4.7,9189,Banglore
+2020,Maruti,Maruti Alto LXI O,16289,Petrol,1st owner,Manual,3.7,7234,Banglore
+2020,KIA,KIA SONET HTK PLUS 1.0 IMT,29737,Petrol,1st owner,Manual,8.23,15665,Banglore
+2021,KIA,KIA SONET HTK PLUS 1.2,13984,Petrol,1st owner,Manual,8.34,15874,Banglore
+2019,Tata,Tata Tiago XZA PLUS PETROL,71055,Petrol,1st owner,Manual,5.51,10772,Banglore
+2019,Hyundai,Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,35727,Petrol,2nd owner,Automatic,5.28,10314,Banglore
+2017,Hyundai,Hyundai Creta SX PLUS AT 1.6 PETROL,78436,Petrol,2nd owner,Automatic,8.36,15912,Banglore
+2013,Hyundai,Hyundai i10 ERA 1.1,40057,Petrol,2nd owner,Manual,3.02,7951,Banglore
+2019,Hyundai,Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT DUAL TONE,26329,Petrol,1st owner,Automatic,5.61,10968,Banglore
+2020,Hyundai,Hyundai NEW I20 SPORTZ 1.2 MT,26517,Petrol,1st owner,Manual,7.22,14115,Banglore
+2017,Ford,Ford Ecosport TREND 1.5L DIESEL,67175,Diesel,2nd owner,Manual,6.33,12375,Banglore
+2019,Renault,Renault TRIBER RXT,53158,Petrol,1st owner,Manual,5.16,10088,Banglore
+2016,Honda,Honda BR-V 1.5L I-VTEC V CVT,90863,Petrol,1st owner,Automatic,7.5,14657,Banglore
+2015,Honda,Honda Jazz 1.2L I-VTEC V AT,50609,Petrol,1st owner,Automatic,5.23,10228,Banglore
+2020,Hyundai,Hyundai NEW I20 ASTA (O) 1.0 TURBO GDI DCT,22119,Petrol,2nd owner,Automatic,9.24,17588,Banglore
+2014,Hyundai,Hyundai Verna FLUIDIC 1.6 VTVT SX,75381,Petrol,1st owner,Automatic,5.22,11612,Banglore
+2013,Hyundai,Hyundai Grand i10 MAGNA 1.1 CRDI,101157,Diesel,2nd owner,Manual,3.15,10463,Banglore
+2015,Hyundai,Hyundai i10 SPORTZ 1.1,69773,Petrol,1st owner,Manual,3.89,7605,Banglore
+2014,Hyundai,Hyundai Grand i10 ASTA AT 1.2 KAPPA VTVT,16780,Petrol,2nd owner,Automatic,4.36,9697,Banglore
+2021,MG,MG HECTOR SHARP 1.5 DCT PETROL,49733,Petrol,1st owner,Automatic,15.43,29370,Banglore
+2022,Maruti,Maruti IGNIS DELTA 1.2,20113,Petrol,2nd owner,Manual,6.02,11769,Banglore
+2022,Maruti,Maruti Baleno ALPHA 1.2 AGS,29903,Petrol,1st owner,Manual,8.75,16655,Banglore
+2016,Hyundai,Hyundai Creta S 1.6 PETROL,30560,Petrol,2nd owner,Manual,7.99,15621,Banglore
+2023,Maruti,Maruti Baleno ZETA 1.2 AGS,8809,Petrol,1st owner,Manual,8.34,15874,Banglore
+2018,Honda,Honda Amaze 1.2L I-VTEC VX,43204,Petrol,1st owner,Manual,6.33,12375,Banglore
+2017,Honda,Honda Jazz 1.2L I-VTEC V,40582,Petrol,1st owner,Manual,5.38,10512,Banglore
+2016,Maruti,Maruti Alto K10 VXI AMT,20323,Petrol,2nd owner,Manual,3.28,6412,Banglore
+2017,Maruti,Maruti Celerio VXI AMT (O),49729,Petrol,1st owner,Manual,4.2,8211,Banglore
+2015,Hyundai,Hyundai Eon D-LITE+,72282,Petrol,1st owner,Manual,2.7,5279,Banglore
+2018,Honda,Honda City 1.5L I-VTEC V MT,52047,Petrol,1st owner,Manual,7.68,15015,Banglore
+2016,Skoda,Skoda Rapid AMBITION 1.6 MPI MT,66211,Petrol,2nd owner,Manual,5.44,10635,Banglore
+2022,Tata,Tata ALTROZ XZA,8569,Petrol,1st owner,Manual,8.79,16739,Banglore
+2016,Tata,Tata Tiago XT PETROL,43284,Petrol,1st owner,Manual,4.21,8231,Banglore
+2020,Hyundai,Hyundai NEW SANTRO SPORTZ MT,23393,Petrol,1st owner,Manual,5.16,10084,Banglore
+2021,Renault,Renault Duster RXZ 1.3 TURBO PETROL MT,68844,Petrol,1st owner,Manual,9.96,18958,Banglore
+2015,Hyundai,Hyundai Grand i10 ASTA (O) 1.2 KAPPA VTVT,73474,Petrol,2nd owner,Automatic,4.2,8211,Banglore
+2016,Mahindra,Mahindra XUV500 W10,81357,Diesel,2nd owner,Manual,10.47,19929,Banglore
+2023,Hyundai,Hyundai VENUE S (O) 1.2 KNIGHT EDITION,25590,Petrol,1st owner,Manual,9.92,18882,Banglore
+2017,Maruti,Maruti IGNIS ALPHA 1.2 DUAL TONE,43498,Petrol,2nd owner,Manual,5.21,10186,Banglore
+2022,Maruti,Maruti Baleno DELTA PETROL 1.2,25794,Petrol,1st owner,Manual,7.27,14213,Banglore
+2023,Maruti,Maruti Celerio ZXI PLUS,13857,Petrol,1st owner,Manual,6.57,12844,Banglore
+2017,Maruti,Maruti Ertiga ZXI+,57504,Petrol,1st owner,Manual,8.08,15380,Banglore
+2022,Honda,Honda City 1.5L I-VTEC ZX CVT,37952,Petrol,1st owner,Automatic,13.74,26153,Banglore
+2021,Skoda,Skoda Rapid AMBITION AT TSI,36185,Petrol,2nd owner,Automatic,9.58,18235,Banglore
+2021,Toyota,Toyota Glanza G,30424,Petrol,1st owner,Manual,7.1,13881,Banglore
+2014,Maruti,Maruti Swift VXI,45332,Petrol,1st owner,Manual,4.58,10188,Banglore
+2013,Hyundai,Hyundai Eon ERA +,67395,Petrol,2nd owner,Manual,2.4,6320,Banglore
+2016,Hyundai,Hyundai Elite i20 ASTA 1.2,86636,Petrol,1st owner,Manual,5.6,10948,Banglore
+2020,Tata,Tata ALTROZ XZ DIESEL,48040,Diesel,2nd owner,Manual,7.33,14324,Banglore
+2022,KIA,KIA SONET HTX 1.0 DCT,22001,Petrol,1st owner,Automatic,10.92,20785,Banglore
+2022,Tata,Tata NEXON XZ PLUS (HS) PETROL DUAL TONE,19624,Petrol,1st owner,Manual,10.48,19948,Banglore
+2014,Hyundai,Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,23922,Petrol,1st owner,Automatic,4.06,9031,Banglore
+2020,Renault,Renault TRIBER RXZ AMT,29142,Petrol,2nd owner,Manual,6.37,12453,Banglore
+2020,Renault,Renault TRIBER RXZ AMT,17346,Petrol,1st owner,Manual,6.5,12704,Banglore
+2019,Tata,Tata NEXON XZ PLUS DIESEL DUAL TONE,96997,Diesel,1st owner,Manual,7.73,15112,Banglore
+2022,Nissan,Nissan MAGNITE XV EXECUTIVE TURBO CVT,16880,Petrol,1st owner,Automatic,8.49,16160,Banglore
+2019,Maruti,Maruti Baleno ZETA PETROL 1.2,22786,Petrol,1st owner,Manual,7.16,13998,Banglore
+2013,Hyundai,Hyundai Verna FLUIDIC 1.6 CRDI SX,56551,Diesel,1st owner,Manual,5.34,17723,Banglore
+2022,Tata,Tata NEXON XMA PETROL,7987,Petrol,1st owner,Manual,8.89,16921,Banglore
+2021,Maruti,Maruti Swift ZXI PLUS AMT DUAL TONE,46325,Petrol,1st owner,Manual,7.75,15151,Banglore
+2017,Honda,Honda WR-V 1.2L I-VTEC VX MT,27982,Petrol,2nd owner,Manual,6.36,12439,Banglore
+2021,Volkswagen,Volkswagen Vento COMFORTLINE 1.0L TSI,22433,Petrol,1st owner,Manual,8.74,16636,Banglore
+2014,Maruti,Maruti Alto 800 LXI,76697,Petrol,1st owner,Manual,2.61,5806,Banglore
+2014,Honda,Honda City 1.5L I-VTEC SV,29321,Petrol,2nd owner,Manual,5.31,11812,Banglore
+2020,KIA,KIA SELTOS HTX ANNIVERSARY EDITION 1.5 DIESEL,44757,Diesel,1st owner,Manual,13.1,24935,Banglore
+2017,Honda,Honda Jazz 1.2L I-VTEC VX,66377,Petrol,2nd owner,Manual,5.12,10010,Banglore
+2017,Maruti,Maruti Alto K10 VXI,49151,Petrol,1st owner,Manual,3.54,6914,Banglore
+2019,Hyundai,Hyundai GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,41994,Petrol,1st owner,Manual,6.25,12220,Banglore
+2017,Maruti,Maruti Wagon R 1.0 VXI+,73311,Petrol,1st owner,Manual,4.28,8367,Banglore
+2019,Ford,Ford Ecosport TITANIUM 1.5L SIGNATURE EDITION (SUNROOF) DIESEL,77512,Diesel,1st owner,Automatic,8.44,16065,Banglore
+2021,Tata,Tata PUNCH CREATIVE IRA 1.2 RTN DUAL TONE,22291,Petrol,1st owner,Automatic,7.98,15601,Banglore
+2015,Hyundai,Hyundai Eon 1.0 MAGNA +,62446,Petrol,2nd owner,Manual,2.78,5435,Banglore
+2019,Honda,Honda Amaze 1.2L I-VTEC V CVT,67625,Petrol,1st owner,Automatic,6.77,13242,Banglore
+2020,Tata,Tata NEXON XZ PLUS (O) PETROL DUAL TONE,54742,Petrol,1st owner,Manual,9.42,17930,Banglore
+2017,Honda,Honda Jazz 1.2L I-VTEC V AT,82014,Petrol,2nd owner,Automatic,5.67,11085,Banglore
+2016,Maruti,Maruti Celerio ZXI AMT,49797,Petrol,1st owner,Manual,4.2,8211,Banglore
+2017,Hyundai,Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,46983,Petrol,1st owner,Automatic,4.79,9365,Banglore
+2015,Maruti,Maruti Alto K10 VXI,84420,Petrol,2nd owner,Manual,2.9,5670,Banglore
+2019,Tata,Tata Tiago XZA PETROL,22666,Petrol,2nd owner,Manual,5.15,10076,Banglore
+2015,Skoda,Skoda Rapid AMBITION 1.6 MPI MT,49790,Petrol,2nd owner,Manual,5.06,9892,Banglore
+2017,Maruti,Maruti Wagon R 1.0 VXI,49380,Petrol,2nd owner,Manual,3.91,7653,Banglore
+2018,Honda,Honda Amaze 1.5L I-DTEC V,33476,Diesel,1st owner,Manual,7.01,13705,Banglore
+2021,Hyundai,Hyundai NEW I20 ASTA (O) 1.2 MT DUAL TONE,31184,Petrol,1st owner,Manual,8.82,16788,Banglore
+2014,Maruti,Maruti Swift VXI,32533,Petrol,1st owner,Manual,4.6,10232,Banglore
+2016,Hyundai,Hyundai Verna 1.6 CRDI SX,69384,Diesel,2nd owner,Manual,6.9,13490,Banglore
+2016,Maruti,Maruti Baleno DELTA PETROL 1.2,72700,Petrol,1st owner,Manual,5.63,11013,Banglore
+2017,Maruti,Maruti Dzire VXI AMT,57506,Petrol,1st owner,Manual,5.59,10929,Banglore
+2019,Renault,Renault Duster RXS CVT,67939,Petrol,1st owner,Automatic,6.78,13264,Banglore
+2018,Hyundai,Hyundai Verna 1.6 VTVT SX,60087,Petrol,2nd owner,Automatic,7.66,14966,Banglore
+2016,Hyundai,Hyundai Creta SX 1.6 DIESEL,58014,Diesel,3rd owner,Manual,8.08,15380,Banglore
+2011,Hyundai,Hyundai i20 SPORTZ 1.2,52366,Petrol,2nd owner,Manual,3.26,15346,Banglore
+2014,Honda,Honda City 1.5L I-VTEC V MT,73554,Petrol,1st owner,Manual,5.48,12192,Banglore
+2018,Hyundai,Hyundai Verna 1.6 VTVT SX,15929,Petrol,1st owner,Automatic,8.58,16331,Banglore
+2012,Maruti,Maruti Ertiga ZDI,106213,Diesel,1st owner,Manual,5.64,26549,Banglore
+2020,Maruti,Maruti Ciaz DELTA 1.5 SHVS MT PETROL,60771,Petrol,1st owner,Manual,7.24,14158,Banglore
+2023,Maruti,Maruti Alto K10 VXI PLUS AMT,6675,Petrol,2nd owner,Manual,5.57,10891,Banglore
+2018,Maruti,Maruti Baleno ALPHA CVT PETROL 1.2,19161,Petrol,2nd owner,Automatic,6.87,13431,Banglore
+2017,Honda,Honda City 1.5L I-VTEC VX CVT,39311,Petrol,1st owner,Automatic,8.01,15246,Banglore
+2018,Maruti,Maruti Celerio ZXI (O),93969,Petrol,1st owner,Manual,4.09,7996,Banglore
+2023,KIA,KIA CARENS PRESTIGE 1.4 PETROL 7 STR,10363,Petrol,1st owner,Manual,11.71,22289,Banglore
+2022,Tata,Tata Safari XZ PLUS 6S ADVENTURE,39627,Diesel,1st owner,Manual,18.15,34547,Banglore
+2018,Maruti,Maruti Ertiga ZDI + SHVS,69668,Diesel,1st owner,Manual,9.25,17607,Banglore
+2019,Maruti,Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,29041,Petrol,2nd owner,Automatic,8.1,15418,Banglore
+2016,Maruti,Maruti Celerio ZXI AMT,51729,Petrol,1st owner,Manual,4.17,8152,Banglore
+2023,Renault,Renault TRIBER RXT,20332,Petrol,1st owner,Manual,6.77,13235,Banglore
+2016,Hyundai,Hyundai Elite i20 MAGNA 1.2,55183,Petrol,2nd owner,Manual,4.95,9677,Banglore
+2016,Maruti,Maruti Celerio VXI,29309,Petrol,2nd owner,Manual,4.15,8113,Banglore
+2022,Honda,Honda City 1.5L I-VTEC ZX CVT,9928,Petrol,1st owner,Automatic,13.47,25648,Banglore
+2022,Volkswagen,Volkswagen TAIGUN TOPLINE 1.0 TSI MT,7749,Petrol,1st owner,Manual,14.01,26657,Banglore
+2017,Hyundai,Hyundai Creta SX PLUS AT 1.6 PETROL,98542,Petrol,1st owner,Automatic,8.78,16712,Banglore
+2018,Tata,Tata Tiago XZ PETROL,21056,Petrol,1st owner,Manual,4.85,9482,Banglore
+2018,Mahindra,Mahindra XUV500 W11 AT,22400,Diesel,2nd owner,Automatic,13.81,26286,Banglore
+2021,KIA,KIA SELTOS HTX 1.5 PETROL,14634,Petrol,1st owner,Manual,12.69,24157,Banglore
+2017,Tata,Tata TIGOR XZA PETROL,57176,Petrol,1st owner,Manual,4.93,9638,Banglore
+2018,Honda,Honda City 1.5L I-VTEC VX,80045,Petrol,2nd owner,Manual,7.55,14760,Banglore
+2020,Renault,Renault Duster RXS 1.5 PETROL MT,45951,Petrol,1st owner,Manual,7.95,15542,Banglore
+2022,KIA,KIA SELTOS HTK PLUS 1.5 DIESEL IMT,35421,Diesel,1st owner,Manual,12.69,24154,Banglore
+2015,Honda,Honda Amaze 1.2L I-VTEC S,41198,Petrol,2nd owner,Manual,3.92,7664,Banglore
+2018,Honda,Honda Jazz 1.2L I-VTEC V CVT,29710,Petrol,1st owner,Automatic,6.21,12141,Banglore
+2019,Honda,Honda Amaze 1.2L I-VTEC VX CVT,37986,Petrol,1st owner,Automatic,7.41,14487,Banglore
+2022,Tata,Tata NEXON XZ PLUS (HS) PETROL,13113,Petrol,1st owner,Manual,10.31,19624,Banglore
+2012,Maruti,Maruti Ertiga VDI,67677,Diesel,2nd owner,Manual,5.86,27585,Banglore
+2021,Hyundai,Hyundai Creta SX (O) AT 1.5 DIESEL,39906,Diesel,1st owner,Automatic,16.85,32072,Banglore
+2015,Hyundai,Hyundai Elite i20 ASTA 1.2,77757,Petrol,1st owner,Manual,5.82,11378,Banglore
+2014,Mahindra,Mahindra XUV500 W6,54136,Diesel,1st owner,Manual,7.83,20619,Banglore
+2020,Hyundai,Hyundai VENUE SX 1.5 CRDI,63261,Diesel,1st owner,Manual,9.34,17778,Banglore
+2023,Toyota,Toyota Glanza V AMT,24402,Petrol,1st owner,Manual,9.09,17302,Banglore
+2014,Maruti,Maruti Celerio VXI,64498,Petrol,2nd owner,Manual,3.63,8075,Banglore
+2016,Honda,Honda City 1.5L I-VTEC SV,64521,Petrol,2nd owner,Manual,5.77,11280,Banglore
+2021,Maruti,Maruti XL6 ZETA MT,29356,Petrol,1st owner,Manual,9.55,18178,Banglore
+2020,MG,MG HECTOR SHARP 1.5 DCT PETROL,23157,Petrol,1st owner,Automatic,14.93,28410,Banglore
+2015,Hyundai,Hyundai Grand i10 ASTA (O) 1.2 KAPPA VTVT,52892,Petrol,1st owner,Automatic,4.49,8778,Banglore
+2018,Maruti,Maruti Baleno DELTA PETROL 1.2,43510,Petrol,1st owner,Manual,5.67,11085,Banglore
+2019,Renault,Renault TRIBER RXZ,62610,Petrol,1st owner,Manual,5.93,11593,Banglore
+2020,KIA,KIA SELTOS HTK PLUS 1.5,34572,Petrol,1st owner,Manual,10.78,20519,Banglore
+2015,Datsun,Datsun Go Plus T,79702,Petrol,1st owner,Manual,2.57,5024,Banglore
+2017,Hyundai,Hyundai i20 Active 1.2 SX,58108,Petrol,2nd owner,Manual,6.3,12318,Banglore
+2017,Renault,Renault Duster RXS CVT,57299,Petrol,2nd owner,Automatic,6.15,12017,Banglore
+2022,Renault,Renault Kwid RXT 1.0,15816,Petrol,1st owner,Manual,4.68,9155,Banglore
+2022,Hyundai,Hyundai VENUE SX 1.2 PETROL,8461,Petrol,1st owner,Manual,9.83,18710,Banglore
+2020,KIA,KIA SELTOS HTK 1.5 DIESEL,58156,Diesel,2nd owner,Manual,9.62,18311,Banglore
+2022,Maruti,Maruti XL6 ZETA AT,14034,Petrol,1st owner,Automatic,11.4,21699,Banglore
+2016,Hyundai,Hyundai Grand i10 ASTA (O) AT 1.2 KAPPA VTVT,62202,Petrol,2nd owner,Automatic,5.1,9971,Banglore
+2023,Tata,Tata NEXON XMA PETROL,7630,Petrol,1st owner,Manual,9.01,17154,Banglore
+2022,Mahindra,Mahindra XUV300 W6 1.2 PETROL,40132,Petrol,1st owner,Manual,8.83,16807,Banglore
+2021,Hyundai,Hyundai VENUE SX PLUS 1.0 TURBO DCT DUAL TONE,31992,Petrol,1st owner,Automatic,10.46,19914,Banglore
+2017,Honda,Honda WR-V 1.2L I-VTEC VX MT,57949,Petrol,1st owner,Manual,6.99,13666,Banglore
+2017,Maruti,Maruti Baleno ZETA PETROL 1.2,48412,Petrol,1st owner,Manual,6.3,12317,Banglore
+2020,Volkswagen,Volkswagen Polo HIGHLINE PLUS 1.0,36701,Petrol,1st owner,Manual,8.28,15760,Banglore
+2022,KIA,KIA SELTOS HTK PLUS 1.5 IMT,9561,Petrol,1st owner,Manual,12.43,23659,Banglore
+2017,Tata,Tata Tiago XZ PETROL,39327,Petrol,1st owner,Manual,4.76,9301,Banglore
+2018,Hyundai,Hyundai Creta E PLUS 1.6 PETROL,34410,Petrol,2nd owner,Manual,7.86,15366,Banglore
+2021,Toyota,Toyota URBAN CRUISER PREMIUM GRADE AT DUAL TONE,22346,Petrol,1st owner,Automatic,10.24,19491,Banglore
+2014,Hyundai,Hyundai Elite i20 SPORTZ 1.2,37447,Petrol,1st owner,Manual,5.19,11547,Banglore
+2017,Maruti,Maruti Alto K10 VXI AMT,20986,Petrol,1st owner,Manual,3.8,7429,Banglore
+2014,Maruti,Maruti Wagon R 1.0 VXI,64194,Petrol,2nd owner,Manual,3.36,7474,Banglore
+2017,Tata,Tata Tiago XZA PETROL,25956,Petrol,2nd owner,Manual,4.41,8622,Banglore
+2015,Maruti,Maruti Swift Dzire VXI,66637,Petrol,1st owner,Manual,4.7,9194,Banglore
+2019,Maruti,Maruti Baleno ZETA PETROL 1.2,38842,Petrol,1st owner,Manual,6.3,12317,Banglore
+2021,MG,MG HECTOR SMART 1.5 PETROL CVT,18429,Petrol,1st owner,Automatic,15.13,28799,Banglore
+2016,Maruti,Maruti Baleno DELTA PETROL 1.2,89800,Petrol,2nd owner,Manual,4.64,9079,Banglore
+2023,Mahindra,Mahindra XUV700 AX 5 D AT 7 STR,282,Diesel,1st owner,Automatic,20.88,39743,Banglore
+2017,Maruti,Maruti Ertiga ZDI SHVS,91825,Diesel,1st owner,Manual,8.32,15836,Banglore
+2022,Renault,Renault TRIBER RXZ AMT,7636,Petrol,1st owner,Manual,7.25,14174,Banglore
+2020,Hyundai,Hyundai Verna SX (O) 1.0 TURBO DCT,70059,Petrol,1st owner,Automatic,10.2,19415,Banglore
+2015,Nissan,Nissan Micra XL CVT,71956,Petrol,2nd owner,Automatic,3.74,7312,Banglore
